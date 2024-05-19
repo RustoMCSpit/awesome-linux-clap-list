@@ -2,10 +2,9 @@
 A list of FOSS clap plugins that work for Linux [![Open-Source Software][oss icon]]
 
 
-MoniqueMonosynth
-OctaSine
-Odin2
-RoomReverb
+
+
+
 Shortcircuit XT
 Stochas
 Surge
@@ -26,11 +25,12 @@ wolf-shaper
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
 - [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine.
 - [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
-- [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project 
-- [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio. 
-- [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
-- [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
-- [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine.
+- [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project
+- [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio.
+- [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
+- [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
+- [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
+   
 - [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
 - [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project 
 
