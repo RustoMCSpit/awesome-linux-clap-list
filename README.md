@@ -21,7 +21,7 @@ wolf-shaper
 
 ### Plugin List
 
-- [AIDA-X](https://www.aimp.ru/](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
+- [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [Airwindows Consolidated](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin 
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
