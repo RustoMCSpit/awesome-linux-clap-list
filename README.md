@@ -1,17 +1,6 @@
 # awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux [![Open-Source Software][oss icon]]
 
-
-
-
-
-Shortcircuit XT
-Stochas
-Surge
-Vital
-VitaliumVerb
-wolf-shaper
-
 ### Plugin List
 
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
@@ -30,7 +19,10 @@ wolf-shaper
 - [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
-   
-- [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
-- [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project 
-
+- [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW.
+- [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
+- [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
+- [Surge XT](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
+- [Vital](https://vital.audio/) - Wavetable synth
+- [vitalium-verb](https://github.com/greatest-ape/OctaSine) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
+- [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
