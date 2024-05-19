@@ -1,6 +1,7 @@
 # awesome-linux-clap-list
-A list of FOSS clap plugins that work for Linux [![Open-Source Software][oss icon]]
+A list of FOSS clap plugins that work for Linux
 
+Please note, some of the below are experiencing GUI bugs and do not work perfectly!
 ### Plugin List
 
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
