@@ -1,10 +1,6 @@
 # awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux [![Open-Source Software][oss icon]]
 
-B-Step
-BYOD
-Cardinal-linux-x86_64-24.04
-CHOWTapeModel
 Dexed
 dragonfly-reverb-3.2.10
 hexosynth_plug
@@ -25,6 +21,9 @@ wolf-shaper
 
 ### Plugin List
 
-- [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
+- [AIDA-X](https://www.aimp.ru/](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [Airwindows Consolidated](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin 
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
+- [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
+- [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
+- [CHOWTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical modelling signal processing for analog tape recording
