@@ -1,9 +1,7 @@
 # awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux [![Open-Source Software][oss icon]]
 
-lamb
-lsp-plugins-clap-1.2.15-Linux-x86_64
-master_me
+
 MoniqueMonosynth
 OctaSine
 Odin2
@@ -28,5 +26,11 @@ wolf-shaper
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
 - [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine.
 - [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
-- [CHOWTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical modelling signal processing for analog tape recording
+- [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project 
+- [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio. 
+- [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
+- [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
+- [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine.
+- [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
+- [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project 
 
