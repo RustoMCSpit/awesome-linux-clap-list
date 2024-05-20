@@ -40,4 +40,5 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
+- [wstd-eq](https://github.com/Wasted-Audio/wstd-eq) - Simple nasty EQ plugin.
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin. 
