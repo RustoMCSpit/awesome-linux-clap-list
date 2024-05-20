@@ -28,6 +28,7 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 - [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW.
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
+- [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
 - [StompTuner](https://github.com/brummer10/StompTuner) - Strobe Tuner
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
