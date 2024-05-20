@@ -43,5 +43,9 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
+- [wstd-crshr](https://github.com/Wasted-Audio/wstd-crshr) - Simple bit reduction plugin
 - [wstd-eq](https://github.com/Wasted-Audio/wstd-eq) - Simple nasty EQ plugin.
-- [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin. 
+- [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin.
+- [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin.
+- [wstd-dlay](https://github.com/Wasted-Audio/wstd-dlay) - Simple Delay Audio Plugin
+- [wstd-flangr](https://github.com/Wasted-Audio/wstd-flangr) - Simple flanger plugin. 
