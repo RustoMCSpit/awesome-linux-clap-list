@@ -15,6 +15,8 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
+- [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
+- [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
 - [fluidsynth](https://github.com/cannerycoders/fluidsynth.clap) -  A clap-plugin bridge to fluidsynth.
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
 - [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine.
