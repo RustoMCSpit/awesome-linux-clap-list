@@ -2,15 +2,17 @@
 A list of FOSS clap plugins that work for Linux
 
 Please note, some of the below are experiencing GUI bugs and do not work perfectly!
+
+(Italics are my recommended plugins)
 ### Plugin List
 
 - [Actuate](https://github.com/ardura/Actuate) - Synthesizer, Sampler, Granulizer
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
-- [Airwindows Consolidated](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin 
+- [*Airwindows Consolidated*](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin 
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
-- [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
-- [CHOWTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical modelling signal processing for analog tape recording
+- [*Cardinal*](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
+- [*CHOWTapeModel*](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical modelling signal processing for analog tape recording
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
@@ -27,8 +29,8 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
-- [Surge XT](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
+- [*Surge XT*](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs using the DISTRHO Plugin Framework 
-- [Vital](https://vital.audio/) - Wavetable synth
+- [*Vital*](https://vital.audio/) - Wavetable synth
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
