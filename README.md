@@ -4,6 +4,7 @@ A list of FOSS clap plugins that work for Linux
 Please note, some of the below are experiencing GUI bugs and do not work perfectly!
 ### Plugin List
 
+- [Actuate](https://github.com/ardura/Actuate) - Synthesizer, Sampler, Granulizer
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [Airwindows Consolidated](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin 
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
@@ -21,8 +22,10 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW.
+- [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
+- [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
 - [Surge XT](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs using the DISTRHO Plugin Framework 
 - [Vital](https://vital.audio/) - Wavetable synth
