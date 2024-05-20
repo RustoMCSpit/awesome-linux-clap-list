@@ -4,6 +4,9 @@ A list of FOSS clap plugins that work for Linux
 Please note, some of the below are experiencing GUI bugs and do not work perfectly!
 
 (Bold are my recommended plugins)
+
+Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
+
 ### Plugin List
 
 - [Actuate](https://github.com/ardura/Actuate) - Synthesizer, Sampler, Granulizer
