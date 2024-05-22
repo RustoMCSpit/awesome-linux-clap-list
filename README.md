@@ -3,6 +3,8 @@ A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Sourc
 
 Please note, some of the below are experiencing GUI bugs and do not work perfectly! The bar is literally just if it has a .clap, so many of them are broken lmfao
 
+All of the below plugins also work for Windows if you're a Windows user.
+
 (Bold are my recommended plugins)
 
 Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
