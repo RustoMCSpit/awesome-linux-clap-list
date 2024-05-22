@@ -30,6 +30,7 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
+- [Penare](https://github.com/azur1s/penare) -  A wonky distortion plugin :3
 - [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW.
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
