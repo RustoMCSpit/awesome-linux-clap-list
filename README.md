@@ -27,6 +27,7 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 - [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project
 - [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio.
 - [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
+- [midi_transpose_rs](https://github.com/stfufane/midi_transpose_rs) - Midi Transposer
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
