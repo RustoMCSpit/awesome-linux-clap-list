@@ -1,7 +1,7 @@
 # awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux
 
-Please note, some of the below are experiencing GUI bugs and do not work perfectly!
+Please note, some of the below are experiencing GUI bugs and do not work perfectly! The bar is literally just if it has a .clap, so many of them are broken lmfao
 
 (Bold are my recommended plugins)
 
