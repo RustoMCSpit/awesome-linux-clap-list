@@ -17,6 +17,8 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
 - [**Cardinal**](https://github.com/DISTRHO/Cardinal) - **Virtual modular synthesizer plugin**
+- [ChowKick](https://github.com/Chowdhury-DSP/ChowMultiTool) - Kick synthesizer based on old-school drum machine circuits
+- [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
