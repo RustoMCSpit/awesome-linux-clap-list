@@ -3,7 +3,7 @@ A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Sourc
 
 Please note, some of the below are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, Octasine, and ToneTwist are currently broken on Linux but function fine on Windows.
 
-All of the below plugins also work for Windows if you're a Windows user. For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org
+All of the below plugins also work for Windows. For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org
 
 (Bold are my recommended plugins)
 
