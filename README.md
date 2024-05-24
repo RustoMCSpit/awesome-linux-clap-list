@@ -5,9 +5,9 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 
 All of the below plugins also work for Windows. For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org
 
-(Bold are my recommended plugins)
-
 Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
+
+(Bold are my recommended plugins)
 
 ### Plugin List
 
