@@ -7,7 +7,7 @@ All of the below plugins also work for Windows. For Windows users, I would also 
 
 Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
 
-(Bold are my recommended plugins)
+**(Bold are my recommended plugins)**
 
 ### Plugin List
 
