@@ -33,6 +33,7 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 - [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio.
 - [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
 - [midi_transpose_rs](https://github.com/stfufane/midi_transpose_rs) - Midi Transposer
+- [nih-plug plugins](https://github.com/robbert-vdh/nih-plug) - A collection of basic plugins
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
@@ -46,7 +47,7 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 - [StompTuner](https://github.com/brummer10/StompTuner) - Strobe Tuner
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
 - [**Surge XT**](https://github.com/surge-synthesizer/surge) - **Synthesizer plug-in (previously released as Vember Audio Surge)**
-- [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs using the DISTRHO Plugin Framework 
+- [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
