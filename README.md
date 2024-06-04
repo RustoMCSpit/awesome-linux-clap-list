@@ -5,6 +5,9 @@ Please note, some of the below are experiencing GUI bugs and do not work perfect
 
 All of the below plugins also work for Windows. For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org
 
+Also, download this: https://github.com/ldrolez/free-midi-chords
+If you want realistic sounding instruments, look for .sfz samples and download sfizz. Synths will never get you realistic sounding instruments, you NEED samples.
+
 Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
 
 **(Bold are my recommended plugins)**
