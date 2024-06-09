@@ -10,6 +10,8 @@ If you want realistic sounding instruments, look for .sfz samples and download s
 
 Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
 
+Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin, https://github.com/Miserlou/chords2midi
+
 **(Bold are my recommended plugins)**
 
 ### Plugin List
