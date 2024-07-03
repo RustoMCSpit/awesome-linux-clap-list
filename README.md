@@ -1,7 +1,7 @@
 # awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
 
-Please note, some of the below are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal are currently broken on Linux but function fine on Windows.
+Please note, some of the below are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
 
 All of the below plugins also work for Windows. For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)
 
