@@ -65,3 +65,11 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [wstd-flangr](https://github.com/Wasted-Audio/wstd-flangr) - Simple flanger plugin. 
 - [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin.
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin.
+
+
+other links for myself
+
+https://github.com/ZL-Audio/ZLEqualizer
+https://github.com/Tote-Bag-Labs/Valentine
+https://github.com/podgorskiy/VChorus
+https://github.com/tiagolr/time1
