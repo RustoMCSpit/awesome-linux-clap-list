@@ -73,3 +73,6 @@ https://github.com/ZL-Audio/ZLEqualizer
 https://github.com/Tote-Bag-Labs/Valentine
 https://github.com/podgorskiy/VChorus
 https://github.com/tiagolr/time1
+
+links that are iplug2
+https://github.com/TobiasKozel/rektifier
