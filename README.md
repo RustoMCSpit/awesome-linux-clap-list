@@ -8,7 +8,7 @@ All of the below plugins also work for Windows. For Windows users, I would also 
 These are also interesting projects https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
 Also, download this: https://github.com/ldrolez/free-midi-chords
-If you want realistic sounding instruments, look for .sfz samples and download sfizz. Synths will never get you realistic sounding instruments, you NEED samples.
+If you want realistic sounding instruments, look for .sfz samples and download [sfizz](https://github.com/sfztools/sfizz). Synths will never get you realistic sounding instruments, you NEED samples.
 
 Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
 
@@ -16,8 +16,7 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 
 **(Bold are my recommended plugins)**
 
-### Plugin List
-
+### Plugin List 
 - [Actuate](https://github.com/ardura/Actuate) - Synthesizer, Sampler, Granulizer
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [**Airwindows Consolidated**](https://github.com/baconpaul/airwin2rack) - **Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin**
