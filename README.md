@@ -31,12 +31,13 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
-- [fluidsynth](https://github.com/cannerycoders/fluidsynth.clap) -  A clap-plugin bridge to fluidsynth.
+- [fluidsynth](https://github.com/cannerycoders/fluidsynth.clap) -  A clap-plugin bridge to fluidsynth
+- [hardclipper](https://github.com/erroreyes/hardclipper) - A simple hard clipper
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
-- [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine.
-- [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
+- [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine
+- [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb
 - [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project
-- [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio.
+- [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio
 - [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
 - [midi_transpose_rs](https://github.com/stfufane/midi_transpose_rs) - Midi Transposer
 - [nih-plug plugins](https://github.com/robbert-vdh/nih-plug) - A collection of basic plugins
@@ -45,7 +46,7 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
 - [Penare](https://github.com/azur1s/penare) -  A wonky distortion plugin :3
 - [plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
-- [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW.
+- [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
@@ -60,10 +61,10 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
 - [wstd-crshr](https://github.com/Wasted-Audio/wstd-crshr) - Simple bit reduction plugin
 - [wstd-dlay](https://github.com/Wasted-Audio/wstd-dlay) - Simple Delay Audio Plugin
-- [wstd-eq](https://github.com/Wasted-Audio/wstd-eq) - Simple nasty EQ plugin.
-- [wstd-flangr](https://github.com/Wasted-Audio/wstd-flangr) - Simple flanger plugin. 
-- [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin.
-- [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin.
+- [wstd-eq](https://github.com/Wasted-Audio/wstd-eq) - Simple nasty EQ plugin
+- [wstd-flangr](https://github.com/Wasted-Audio/wstd-flangr) - Simple flanger plugin
+- [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin
+- [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
 
 
 other links for myself
