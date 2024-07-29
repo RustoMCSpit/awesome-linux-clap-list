@@ -69,12 +69,13 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 
 other links for myself
 
-https://github.com/ZL-Audio/ZLEqualizer
-https://github.com/Tote-Bag-Labs/Valentine
-https://github.com/podgorskiy/VChorus
-https://github.com/tiagolr/time1
-https://github.com/yokemura/Magical8bitPlug2
-https://github.com/publicsamples/Quetzalcoatl
+1) https://github.com/ZL-Audio/ZLEqualizer
+2) https://github.com/Tote-Bag-Labs/Valentine
+3) https://github.com/podgorskiy/VChorus
+4) https://github.com/tiagolr/time1
+5) https://github.com/yokemura/Magical8bitPlug2
+6) https://github.com/publicsamples/Quetzalcoatl
+7) https://github.com/jerryuhoo/Fire
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
