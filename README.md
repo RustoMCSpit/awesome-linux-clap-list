@@ -28,6 +28,7 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
 - [crrshrr](https://github.com/erroreyes/crrshrr) - A very simple bit crusher effect plugin
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
+- [delax](https://github.com/awallenfang/delax) - A delay audio plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
