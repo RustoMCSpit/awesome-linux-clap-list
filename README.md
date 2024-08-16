@@ -78,5 +78,5 @@ other links for myself
 6) https://github.com/publicsamples/Quetzalcoatl
 7) https://github.com/jerryuhoo/Fire
 
-links that are iplug2
+links that are iplug2 https://github.com/iPlug2/iPlug2/issues/105
 https://github.com/TobiasKozel/rektifier
