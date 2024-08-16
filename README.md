@@ -78,5 +78,12 @@ other links for myself
 6) https://github.com/publicsamples/Quetzalcoatl
 7) https://github.com/jerryuhoo/Fire
 
-links that are iplug2 https://github.com/iPlug2/iPlug2/issues/105
+links that are iplug2
 https://github.com/TobiasKozel/rektifier
+
+clap / linux status:
+https://github.com/iPlug2/iPlug2/issues/105
+https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962
+
+
+cant find the juce one
