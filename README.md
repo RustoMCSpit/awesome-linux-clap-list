@@ -88,3 +88,6 @@ https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=172383
 
 
 cant find the juce one
+The announcement is also here: https://forum.juce.com/t/juce-roadmap-update-q3-2024/62275
+
+A relevant FR: https://forum.juce.com/t/fr-support-clap-for-plugins-host-client/51860
