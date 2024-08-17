@@ -83,6 +83,7 @@ https://github.com/TobiasKozel/rektifier
 
 clap / linux status:
 https://github.com/iPlug2/iPlug2/issues/105
+https://github.com/orgs/iPlug2/projects/11
 https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962
 
 
