@@ -16,7 +16,8 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 
 **(Bold are my recommended plugins)**
 
-### Plugin List 
+### Plugin List
+- [Aeolus](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer
 - [Actuate](https://github.com/ardura/Actuate) - Synthesizer, Sampler, Granulizer
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [**Airwindows Consolidated**](https://github.com/baconpaul/airwin2rack) - **Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin**
