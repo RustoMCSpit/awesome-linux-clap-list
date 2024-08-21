@@ -78,6 +78,7 @@ other links for myself
 5) https://github.com/yokemura/Magical8bitPlug2
 6) https://github.com/publicsamples/Quetzalcoatl
 7) https://github.com/jerryuhoo/Fire
+8) https://github.com/jpcima/ADLplug
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
