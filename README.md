@@ -59,6 +59,7 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [**Surge XT**](https://github.com/surge-synthesizer/surge) - **Synthesizer plug-in (previously released as Vember Audio Surge)**
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
+Also here: https://github.com/mtytel/vital
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
 - [wstd-crshr](https://github.com/Wasted-Audio/wstd-crshr) - Simple bit reduction plugin
