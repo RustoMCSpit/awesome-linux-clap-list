@@ -80,13 +80,17 @@ other links for myself
 6) https://github.com/publicsamples/Quetzalcoatl
 7) https://github.com/jerryuhoo/Fire
 8) https://github.com/jpcima/ADLplug
+9) https://github.com/brummer10/XUiDesigner
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
 
 clap / linux status:
+
 https://github.com/iPlug2/iPlug2/issues/105
+
 https://github.com/orgs/iPlug2/projects/11
+
 https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962
 
 
