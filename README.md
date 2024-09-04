@@ -48,7 +48,7 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
 - [Penare](https://github.com/azur1s/penare) -  A wonky distortion plugin :3
 - [plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
-- [ripchord](https://github.com/prg318/ripchord) - Chords tool from trackabout; this fork adds CLAP support
+- [ripchord](https://github.com/prg318/ripchord) - Chord tool originally from trackbout; this fork adds CLAP support
 - [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
