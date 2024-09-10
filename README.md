@@ -82,6 +82,7 @@ other links for myself
 7) https://github.com/jerryuhoo/Fire
 8) https://github.com/jpcima/ADLplug
 9) https://github.com/brummer10/XUiDesigner
+10) https://github.com/jpcima/stone-phaser
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
