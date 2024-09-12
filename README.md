@@ -59,7 +59,7 @@ Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
 - [**Surge XT**](https://github.com/surge-synthesizer/surge) - **Synthesizer plug-in (previously released as Vember Audio Surge)**
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
-- [unplugred plugins](https://vst.unplug.red) - A collection of different unique plugins (please donate if you can!) Also here: https://github.com/unplugred/vsts
+- [unplugred plugins](https://vst.unplug.red) - Different unique plugins (please donate if you can) Also here: https://github.com/unplugred/vsts
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
 Also here: https://github.com/mtytel/vital
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
