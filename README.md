@@ -72,7 +72,7 @@ Also here: https://github.com/mtytel/vital
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
 
 
-other links for myself
+other links for myself (nothing below is linux and clap)
 
 1) https://github.com/ZL-Audio/ZLEqualizer
 2) https://github.com/Tote-Bag-Labs/Valentine
