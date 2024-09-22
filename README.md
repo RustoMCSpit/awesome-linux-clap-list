@@ -14,6 +14,8 @@ Oh and by the way, just because it's free doesn't mean you shouldn't donate to s
 
 Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin, https://github.com/Miserlou/chords2midi
 
+Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY
+
 **(Bold are my recommended plugins)**
 
 ### Plugin List
