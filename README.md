@@ -3,9 +3,7 @@ A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Sourc
 
 Please note, some of the below are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
 
-All of the below plugins also work for Windows. For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)
-
-These are also interesting projects https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
+All of the below plugins also work for Windows. _For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)_
 
 Also, download this: https://github.com/ldrolez/free-midi-chords
 If you want realistic sounding instruments, look for .sfz samples and download [sfizz](https://github.com/sfztools/sfizz) (no .clap). Synths will never get you realistic sounding instruments, you NEED samples.
@@ -87,6 +85,8 @@ other links for myself (nothing below is linux and clap)
 9) https://github.com/brummer10/XUiDesigner
 10) https://github.com/jpcima/stone-phaser
 11) https://github.com/mikeoliphant/StompboxUI
+
+These are also interesting projects https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
