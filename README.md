@@ -11,7 +11,7 @@ A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Sourc
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
 - [**Cardinal**](https://github.com/DISTRHO/Cardinal) - **Virtual modular synthesizer plugin**
-- [ChowKick](https://github.com/Chowdhury-DSP/ChowMultiTool) - Kick synthesizer based on old-school drum machine circuits
+- [ChowKick](https://github.com/Chowdhury-DSP/ChowKick) - Kick synthesizer based on old-school drum machine circuits
 - [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
 - [crrshrr](https://github.com/erroreyes/crrshrr) - A very simple bit crusher effect plugin
