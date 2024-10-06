@@ -1,19 +1,6 @@
 # awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
 
-Please note, some of the below are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
-
-All of the below plugins also work for Windows. _For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)_
-
-Also, download this: https://github.com/ldrolez/free-midi-chords
-If you want realistic sounding instruments, look for .sfz samples and download [sfizz](https://github.com/sfztools/sfizz) (no .clap). Synths will never get you realistic sounding instruments, you NEED samples.
-
-Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
-
-Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin, https://github.com/Miserlou/chords2midi
-
-Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY
-
 **(Bold are my recommended plugins)**
 
 ### Plugin List
@@ -70,6 +57,27 @@ Also here: https://github.com/mtytel/vital
 - [wstd-flangr](https://github.com/Wasted-Audio/wstd-flangr) - Simple flanger plugin
 - [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
+
+
+
+
+
+
+Please note, some of the below are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
+
+All of the below plugins also work for Windows. _For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)_
+
+Also, download this: https://github.com/ldrolez/free-midi-chords
+If you want realistic sounding instruments, look for .sfz samples and download [sfizz](https://github.com/sfztools/sfizz) (no .clap). Synths will never get you realistic sounding instruments, you NEED samples.
+
+Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
+
+Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin, https://github.com/Miserlou/chords2midi
+
+Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY
+
+
+
 
 
 other links for myself (nothing below is linux and clap)
