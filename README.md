@@ -94,7 +94,8 @@ other links for myself (nothing below is linux and clap)
 9) https://github.com/brummer10/XUiDesigner
 10) https://github.com/jpcima/stone-phaser
 11) https://github.com/mikeoliphant/StompboxUI
-12) https://github.com/andrewreeman/SpectralSuite/tree/v2.1.11
+12) https://github.com/andrewreeman/SpectralSuite
+13) https://github.com/zmann-org/zmann
 
 These are also interesting projects https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
