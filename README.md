@@ -15,8 +15,9 @@ A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Sourc
 - [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
 - [crrshrr](https://github.com/erroreyes/crrshrr) - A very simple bit crusher effect plugin
-- [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
+- [DEL2](https://github.com/magnetophon/DEL2) -  A rhythm delay with crunch.
 - [delax](https://github.com/awallenfang/delax) - A delay audio plugin
+- [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
