@@ -1,4 +1,4 @@
-# awesome-linux-clap-list
+***T# awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
 
 **(Bold are my recommended plugins)**
@@ -46,7 +46,7 @@ A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Sourc
 - [StompTuner](https://github.com/brummer10/StompTuner) - Strobe Tuner
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
 - [**Surge XT**](https://github.com/surge-synthesizer/surge) - **Synthesizer plug-in (previously released as Vember Audio Surge)**
-- [**Terrain**](https://github.com/aaronaanderson/Terrain) - Open Source Wave Terrain Synth 
+- [Terrain](https://github.com/aaronaanderson/Terrain) - Open Source Wave Terrain Synth 
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
 - [unplugred plugins](https://vst.unplug.red) - Different unique plugins (please donate if you can) Also here: https://github.com/unplugred/vsts
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
