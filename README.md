@@ -1,4 +1,4 @@
-***T# awesome-linux-clap-list
+# awesome-linux-clap-list
 A list of FOSS clap plugins that work for Linux. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
 
 **(Bold are my recommended plugins)**
