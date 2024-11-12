@@ -60,9 +60,11 @@ Also here: https://github.com/mtytel/vital
 - [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
 
-how to install linux: 1) copy down your windows product key 2) backup your files to a harddrive 3) install the linux mint cinnamon .iso file from the [linux mint website](https://www.linuxmint.com) 4) use [etcher](https://etcher.balena.io) (download from its website) to put the .iso on a usb flash drive 5) go into bios 6) boot from the usb 7) go through the introduction and then erase all of your computers the storage and install 8) press update all in the update manager 9) celebrate. it takes 15 minutes.
+-----------------------
 
+_how to install linux: 1) copy down your windows product key 2) backup your files to a harddrive 3) install the linux mint cinnamon .iso file from the [linux mint website](https://www.linuxmint.com) 4) use [etcher](https://etcher.balena.io) (download from its website) to put the .iso on a usb flash drive 5) go into bios 6) boot from the usb 7) go through the introduction and then erase all of your computers the storage and install 8) press update all in the update manager 9) celebrate. it takes 15 minutes._
 
+------------------------
 
 
 Please note, some of the above are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
