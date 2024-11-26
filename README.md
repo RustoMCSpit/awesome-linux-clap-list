@@ -11,6 +11,7 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
 - [**Cardinal**](https://github.com/DISTRHO/Cardinal) - **Virtual modular synthesizer plugin**
+- [castello](https://github.com/lucianoiam/castello) - A small reverb plugin based on Csound reverbsc
 - [ChowKick](https://github.com/Chowdhury-DSP/ChowKick) - Kick synthesizer based on old-school drum machine circuits
 - [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
