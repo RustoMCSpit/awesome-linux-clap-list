@@ -105,7 +105,7 @@ other links for myself (nothing below is linux and clap)
 16) https://github.com/matidfk/nih-sampler
 17) https://github.com/TobiasKozel/rektifier
 
-These are also interesting projects https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
+These are also interesting projects https://github.com/TobiasKozel/GuitarD?tab=readme-ov-file https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
