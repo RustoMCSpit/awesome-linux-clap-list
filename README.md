@@ -101,6 +101,9 @@ other links for myself (nothing below is linux and clap)
 12) https://github.com/andrewreeman/SpectralSuite
 13) https://github.com/zmann-org/zmann
 14) https://github.com/daphneorelse/launch-codes
+15) https://github.com/a2aaron/nyasynth
+16) https://github.com/matidfk/nih-sampler
+17) https://github.com/TobiasKozel/rektifier
 
 These are also interesting projects https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
