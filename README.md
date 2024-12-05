@@ -108,6 +108,8 @@ other links for myself (nothing below is linux and clap)
 16) https://github.com/matidfk/nih-sampler
 17) https://github.com/TobiasKozel/rektifier
 18) https://github.com/igorski/fogpad
+19) https://github.com/jsvaldezv/duck-sampler
+20) https://github.com/ArdenButterfield/Maim
 
 These are also interesting projects https://github.com/TobiasKozel/GuitarD?tab=readme-ov-file https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
