@@ -105,6 +105,7 @@ other links for myself (nothing below is linux and clap)
 15) https://github.com/a2aaron/nyasynth
 16) https://github.com/matidfk/nih-sampler
 17) https://github.com/TobiasKozel/rektifier
+18) https://github.com/igorski/fogpad
 
 These are also interesting projects https://github.com/TobiasKozel/GuitarD?tab=readme-ov-file https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
 
