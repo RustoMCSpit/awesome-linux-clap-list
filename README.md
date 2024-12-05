@@ -41,6 +41,7 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 - [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
+- [sfzq](https://github.com/stevefolta/sfzq) -SFZ/SF2 Player for Linux
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
 - [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
