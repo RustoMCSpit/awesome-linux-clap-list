@@ -111,7 +111,12 @@ other links for myself (nothing below is linux and clap)
 19) https://github.com/jsvaldezv/duck-sampler
 20) https://github.com/ArdenButterfield/Maim
 
-These are also interesting projects https://github.com/TobiasKozel/GuitarD?tab=readme-ov-file https://github.com/moddevices/mod-desktop https://github.com/sonic-visualiser/tony https://github.com/sonic-visualiser/sonic-visualiser
+These are also interesting projects 
+1) https://github.com/TobiasKozel/GuitarD
+2) https://github.com/moddevices/mod-desktop 
+3) https://github.com/sonic-visualiser/tony 
+4) https://github.com/sonic-visualiser/sonic-visualiser
+5) https://github.com/brummer10/XUiDesigner
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
