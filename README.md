@@ -15,6 +15,7 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
 - [**Cardinal**](https://github.com/DISTRHO/Cardinal) - **Virtual modular synthesizer plugin**
 - [castello](https://github.com/lucianoiam/castello) - A small reverb plugin based on Csound reverbsc
+- [CChorus](https://github.com/SpotlightKid/cchorus) - A versatile stereo chorus, multi-format audio effect plugin
 - [ChowKick](https://github.com/Chowdhury-DSP/ChowKick) - Kick synthesizer based on old-school drum machine circuits
 - [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
@@ -22,6 +23,8 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 - [DEL2](https://github.com/magnetophon/DEL2) -  A rhythm delay with crunch.
 - [delax](https://github.com/awallenfang/delax) - A delay audio plugin
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
+- [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb designed to sound great with synthetic sound sources
+- [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb plugin
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
