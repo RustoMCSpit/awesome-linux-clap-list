@@ -46,6 +46,7 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 - [sfzq](https://github.com/stevefolta/sfzq) -SFZ/SF2 Player for Linux
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
 - [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
+- [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) -  A stereo delay plugin with feedback and cross-mixing
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
 - [StompTuner](https://github.com/brummer10/StompTuner) - Strobe Tuner
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
