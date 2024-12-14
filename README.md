@@ -134,6 +134,8 @@ https://github.com/orgs/iPlug2/projects/11
 
 https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962
 
+https://github.com/DISTRHO/DPF/wiki/Plugins-made-with-DPF
+
 
 cant find the juce one?
 
