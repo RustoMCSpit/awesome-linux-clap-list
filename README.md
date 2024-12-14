@@ -7,6 +7,7 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 
 ### Plugin List
 - [Aeolus](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer
+- [ADT](https://github.com/SpotlightKid/adt) - Automatic double tracking plugin (not only) for vocals 
 - [Actuate](https://github.com/ardura/Actuate) - Synthesizer, Sampler, Granulizer
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [**Airwindows Consolidated**](https://github.com/baconpaul/airwin2rack) - **Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin**
