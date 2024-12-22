@@ -113,6 +113,7 @@ other links for myself (nothing below is linux and clap)
 18) https://github.com/igorski/fogpad
 19) https://github.com/jsvaldezv/duck-sampler
 20) https://github.com/ArdenButterfield/Maim
+21) https://github.com/jameshball/osci-render
 
 These are also interesting projects 
 1) https://github.com/TobiasKozel/GuitarD
