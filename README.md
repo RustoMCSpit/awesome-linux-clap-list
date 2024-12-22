@@ -120,6 +120,10 @@ These are also interesting projects
 3) https://github.com/sonic-visualiser/tony 
 4) https://github.com/sonic-visualiser/sonic-visualiser
 5) https://github.com/brummer10/XUiDesigner
+6) https://github.com/Anjok07/ultimatevocalremovergui
+7) https://github.com/stemrollerapp/stemroller
+8) https://github.com/Frikallo/MISST
+9) https://github.com/rsxdalv/tts-generation-webui
 
 links that are iplug2
 https://github.com/TobiasKozel/rektifier
