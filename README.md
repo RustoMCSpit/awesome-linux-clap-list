@@ -91,7 +91,7 @@ Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes
 
 
 
-other links for myself (nothing below is linux and clap)
+other links for myself (nothing below is linux and clap) <img src="https://github.com/user-attachments/assets/88de935f-f2c9-466b-a585-766e7a4ea51b" width="6%">
 
 1) https://github.com/ZL-Audio/ZLEqualizer
 2) https://github.com/Tote-Bag-Labs/Valentine
