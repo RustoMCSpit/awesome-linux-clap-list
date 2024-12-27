@@ -96,8 +96,8 @@ other links for myself (nothing below is linux and clap) <img src="https://githu
 These are also interesting projects:
 1. [ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer)
 2. [Valentine](https://github.com/Tote-Bag-Labs/Valentine)
-3. [VChorus](https://github.com/podgorskiy/VChorus)
-4. [time1](https://github.com/tiagolr/time1)
+3. [VChorus](https://github.com/podgorskiy/VChorus) IPLUG2
+4. [time1](https://github.com/tiagolr/time1) IPLUG2
 5. [Magical8bitPlug2](https://github.com/yokemura/Magical8bitPlug2)
 6. [Quetzalcoatl](https://github.com/publicsamples/Quetzalcoatl)
 7. [Fire](https://github.com/jerryuhoo/Fire)
@@ -115,6 +115,7 @@ These are also interesting projects:
 19. [duck-sampler](https://github.com/jsvaldezv/duck-sampler)
 20. [Maim](https://github.com/ArdenButterfield/Maim)
 21. [osci-render](https://github.com/jameshball/osci-render)
+22. [rektifier](https://github.com/TobiasKozel/rektifier) IPLUG2
 
 These are also interesting projects 
 1) https://github.com/TobiasKozel/GuitarD
@@ -126,9 +127,6 @@ These are also interesting projects
 7) https://github.com/stemrollerapp/stemroller
 8) https://github.com/Frikallo/MISST
 9) https://github.com/rsxdalv/tts-generation-webui
-
-Links that are iPlug2:
-- [rektifier](https://github.com/TobiasKozel/rektifier)
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
