@@ -127,22 +127,16 @@ These are also interesting projects
 8) https://github.com/Frikallo/MISST
 9) https://github.com/rsxdalv/tts-generation-webui
 
-links that are iplug2
-https://github.com/TobiasKozel/rektifier
+Links that are iPlug2:
+- [rektifier](https://github.com/TobiasKozel/rektifier)
 
-clap / linux status:
-
-https://github.com/iPlug2/iPlug2/issues/105
-
-https://github.com/orgs/iPlug2/projects/11
-
-https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962
-
-https://github.com/DISTRHO/DPF/wiki/Plugins-made-with-DPF
+CLAP/Linux status:
+- [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
+- [iPlug2 project #11](https://github.com/orgs/iPlug2/projects/11)
+- [CLAP: The New Audio Plug-in Standard](https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962)
+- [Plugins made with DPF](https://github.com/DISTRHO/DPF/wiki/Plugins-made-with-DPF)
 
 
-cant find the juce one?
+Can't find the JUCE one? The announcement is also here: [JUCE Roadmap Update Q3 2024](https://forum.juce.com/t/juce-roadmap-update-q3-2024/62275). 
 
-The announcement is also here: https://forum.juce.com/t/juce-roadmap-update-q3-2024/62275
-
-A relevant FR: https://forum.juce.com/t/fr-support-clap-for-plugins-host-client/51860
+A relevant FR: [Support CLAP for Plugins Host Client](https://forum.juce.com/t/fr-support-clap-for-plugins-host-client/51860).
