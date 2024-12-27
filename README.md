@@ -93,27 +93,28 @@ Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes
 
 other links for myself (nothing below is linux and clap) <img src="https://github.com/user-attachments/assets/88de935f-f2c9-466b-a585-766e7a4ea51b" width="6%">
 
-1) https://github.com/ZL-Audio/ZLEqualizer
-2) https://github.com/Tote-Bag-Labs/Valentine
-3) https://github.com/podgorskiy/VChorus
-4) https://github.com/tiagolr/time1
-5) https://github.com/yokemura/Magical8bitPlug2
-6) https://github.com/publicsamples/Quetzalcoatl
-7) https://github.com/jerryuhoo/Fire
-8) https://github.com/jpcima/ADLplug
-9) https://github.com/brummer10/XUiDesigner
-10) https://github.com/jpcima/stone-phaser
-11) https://github.com/mikeoliphant/StompboxUI
-12) https://github.com/andrewreeman/SpectralSuite
-13) https://github.com/zmann-org/zmann
-14) https://github.com/daphneorelse/launch-codes
-15) https://github.com/a2aaron/nyasynth
-16) https://github.com/matidfk/nih-sampler
-17) https://github.com/TobiasKozel/rektifier
-18) https://github.com/igorski/fogpad
-19) https://github.com/jsvaldezv/duck-sampler
-20) https://github.com/ArdenButterfield/Maim
-21) https://github.com/jameshball/osci-render
+These are also interesting projects:
+1. [ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer)
+2. [Valentine](https://github.com/Tote-Bag-Labs/Valentine)
+3. [VChorus](https://github.com/podgorskiy/VChorus)
+4. [time1](https://github.com/tiagolr/time1)
+5. [Magical8bitPlug2](https://github.com/yokemura/Magical8bitPlug2)
+6. [Quetzalcoatl](https://github.com/publicsamples/Quetzalcoatl)
+7. [Fire](https://github.com/jerryuhoo/Fire)
+8. [ADLplug](https://github.com/jpcima/ADLplug)
+9. [XUiDesigner](https://github.com/brummer10/XUiDesigner)
+10. [stone-phaser](https://github.com/jpcima/stone-phaser)
+11. [StompboxUI](https://github.com/mikeoliphant/StompboxUI)
+12. [SpectralSuite](https://github.com/andrewreeman/SpectralSuite)
+13. [zmann](https://github.com/zmann-org/zmann)
+14. [launch-codes](https://github.com/daphneorelse/launch-codes)
+15. [nyasynth](https://github.com/a2aaron/nyasynth)
+16. [nih-sampler](https://github.com/matidfk/nih-sampler)
+17. [rektifier](https://github.com/TobiasKozel/rektifier)
+18. [fogpad](https://github.com/igorski/fogpad)
+19. [duck-sampler](https://github.com/jsvaldezv/duck-sampler)
+20. [Maim](https://github.com/ArdenButterfield/Maim)
+21. [osci-render](https://github.com/jameshball/osci-render)
 
 These are also interesting projects 
 1) https://github.com/TobiasKozel/GuitarD
