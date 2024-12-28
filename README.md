@@ -81,12 +81,7 @@ All of the above plugins also work for Windows. _For Windows users, I would also
 Also, download this: https://github.com/ldrolez/free-midi-chords
 If you want realistic sounding instruments, look for .sfz samples and download [sfizz](https://github.com/sfztools/sfizz) (no .clap). Synths will never get you realistic sounding instruments, you NEED samples.
 
-Oh and by the way, just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
-
-Lastly, if any of you nerds want to make a GUI based MIDI chord generator plugin, you can use this techstack https://github.com/Miserlou/chords2midi https://github.com/fefanto/fontaudio
-https://github.com/Remix-Design/RemixIcon
-https://github.com/robbert-vdh/nih-plug
-https://github.com/emilk/egui
+Just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
 
 Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY
 
@@ -142,3 +137,14 @@ CLAP/Linux status:
 Can't find the JUCE one? The announcement is also here: [JUCE Roadmap Update Q3 2024](https://forum.juce.com/t/juce-roadmap-update-q3-2024/62275). 
 
 A relevant FR: [Support CLAP for Plugins Host Client](https://forum.juce.com/t/fr-support-clap-for-plugins-host-client/51860).
+
+If any of you nerds want to make a GUI based MIDI chord generator plugin, you can use this techstack:
+https://github.com/fefanto/fontaudio
+https://github.com/Remix-Design/RemixIcon
+https://github.com/robbert-vdh/nih-plug
+https://github.com/emilk/egui
+
+Python converters:
+https://github.com/MarkCWirt/MIDIUtil
+https://github.com/Miserlou/chords2midi
+https://github.com/ideoforms/isobar
