@@ -116,7 +116,7 @@ These are also interesting projects:
 20. [Maim](https://github.com/ArdenButterfield/Maim)
 21. [osci-render](https://github.com/jameshball/osci-render)
 22. [rektifier](https://github.com/TobiasKozel/rektifier)IPLUG2
-23. [mod desktop](https://github.com/moddevices/mod-desktop)
+23. [MOD desktop](https://github.com/moddevices/mod-desktop)
 
 These are also interesting projects that aren't plugins
 1) https://github.com/TobiasKozel/GuitarD
