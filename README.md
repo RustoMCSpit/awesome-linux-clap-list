@@ -1,6 +1,8 @@
 # awesome-linux-clap-list ![image](https://github.com/user-attachments/assets/b0504c63-a4f3-4edd-9dea-09e89b340beb)
 A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux for your own sake, detailed below)_. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
 
+You can download these and more using this soon https://github.com/open-audio-stack/open-audio-stack-registry
+
 **(Bold are my recommended plugins)**
 
 ### Plugin List
