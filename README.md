@@ -117,15 +117,7 @@ These are also interesting projects:
 23. [MOD desktop](https://github.com/moddevices/mod-desktop)
 24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
 
-These are also interesting projects that aren't plugins
 
-1) https://github.com/sonic-visualiser/tony 
-2) https://github.com/sonic-visualiser/sonic-visualiser
-3) https://github.com/brummer10/XUiDesigner
-4) https://github.com/Anjok07/ultimatevocalremovergui
-5) https://github.com/stemrollerapp/stemroller
-6) https://github.com/Frikallo/MISST
-7) https://github.com/rsxdalv/tts-generation-webui
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
@@ -148,3 +140,49 @@ Python converters:
 https://github.com/MarkCWirt/MIDIUtil
 https://github.com/Miserlou/chords2midi
 https://github.com/ideoforms/isobar
+
+
+
+Sort out below later:
+
+### Projects:
+- [UltraSinger](https://github.com/rakuri255/UltraSinger)
+- [Basic Pitch](https://github.com/spotify/basic-pitch)
+- [Applio](https://github.com/IAHispano/Applio)
+- [RVC CLI](https://github.com/blaisewf/rvc-cli)
+- [StemRoller](https://github.com/stemrollerapp/stemroller)
+- [MISST](https://github.com/Frikallo/MISST)
+- [TTS Generation WebUI](https://github.com/rsxdalv/tts-generation-webui)
+- [Tony](https://github.com/sonic-visualiser/tony)
+- [Sonic Visualiser](https://github.com/sonic-visualiser/sonic-visualiser)
+- [XUiDesigner](https://github.com/brummer10/XUiDesigner)
+- [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
+
+### Vocoders:
+- [HiFi-GAN](https://github.com/jik876/hifi-gan) by jik876
+- [Vocos](https://github.com/gemelo-ai/vocos) by gemelo-ai
+- [BigVGAN](https://github.com/NVIDIA/BigVGAN) by NVIDIA
+- [BigVSAN](https://github.com/sony/bigvsan) by sony
+- [vocoders](https://github.com/reppy4620/vocoders) by reppy4620
+- [vocoder](https://github.com/fishaudio/vocoder) by fishaudio
+
+### VC Clients:
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) by RVC-Project
+- [So-Vits-SVC](https://github.com/svc-develop-team/so-vits-svc) by svc-develop-team
+- [Mangio-RVC-Fork](https://github.com/Mangio621/Mangio-RVC-Fork) by Mangio621
+- [VITS](https://github.com/jaywalnut310/vits) by jaywalnut310
+- [Harmonify](https://huggingface.co/Eempostor/Harmonify) by Eempostor
+- [rvc-trainer](https://github.com/thepowerfuldeez/rvc-trainer) by thepowerfuldeez
+
+### Pitch Extractors:
+- [RMVPE](https://github.com/Dream-High/RMVPE) by Dream-High
+- [torchfcpe](https://github.com/CNChTu/FCPE) by CNChTu
+- [torchcrepe](https://github.com/maxrmorrison/torchcrepe) by maxrmorrison
+- [anyf0](https://github.com/SoulMelody/anyf0) by SoulMelody
+
+### Other:
+- [FAIRSEQ](https://github.com/facebookresearch/fairseq) by facebookresearch
+- [FAISS](https://github.com/facebookresearch/faiss) by facebookresearch
+- [ContentVec](https://github.com/auspicious3000/contentvec/) by auspicious3000
+- [audio-slicer](https://github.com/openvpi/audio-slicer) by openvpi
+- [python-audio-separator](https://github.com/karaokenerds/python-audio-separator) by karaokenerds
