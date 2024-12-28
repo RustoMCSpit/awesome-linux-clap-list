@@ -117,16 +117,17 @@ These are also interesting projects:
 21. [osci-render](https://github.com/jameshball/osci-render)
 22. [rektifier](https://github.com/TobiasKozel/rektifier) IPLUG2
 23. [MOD desktop](https://github.com/moddevices/mod-desktop)
+24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
 
 These are also interesting projects that aren't plugins
-1) https://github.com/TobiasKozel/GuitarD
-3) https://github.com/sonic-visualiser/tony 
-4) https://github.com/sonic-visualiser/sonic-visualiser
-5) https://github.com/brummer10/XUiDesigner
-6) https://github.com/Anjok07/ultimatevocalremovergui
-7) https://github.com/stemrollerapp/stemroller
-8) https://github.com/Frikallo/MISST
-9) https://github.com/rsxdalv/tts-generation-webui
+
+1) https://github.com/sonic-visualiser/tony 
+2) https://github.com/sonic-visualiser/sonic-visualiser
+3) https://github.com/brummer10/XUiDesigner
+4) https://github.com/Anjok07/ultimatevocalremovergui
+5) https://github.com/stemrollerapp/stemroller
+6) https://github.com/Frikallo/MISST
+7) https://github.com/rsxdalv/tts-generation-webui
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
