@@ -160,6 +160,7 @@ Sort out below later:
 - [Tony](https://github.com/sonic-visualiser/tony)
 - [Sonic Visualiser](https://github.com/sonic-visualiser/sonic-visualiser)
 - https://github.com/plugdata-team/plugdata
+- https://ewanbristow.gumroad.com/
 - [XUiDesigner](https://github.com/brummer10/XUiDesigner)
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
