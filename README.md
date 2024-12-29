@@ -144,6 +144,8 @@ https://github.com/Miserlou/chords2midi
 https://github.com/ideoforms/isobar
 
 
+Look into this: https://audioplugins.lim.di.unimi.it/index.php
+
 
 Sort out below later:
 
