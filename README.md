@@ -161,6 +161,7 @@ Sort out below later:
 - [Sonic Visualiser](https://github.com/sonic-visualiser/sonic-visualiser)
 - https://github.com/plugdata-team/plugdata
 - https://ewanbristow.gumroad.com/
+- https://github.com/steinbergmedia/vstgui
 - [XUiDesigner](https://github.com/brummer10/XUiDesigner)
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
