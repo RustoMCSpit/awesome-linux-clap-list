@@ -163,6 +163,7 @@ Sort out below later:
 - https://ewanbristow.gumroad.com/ (not foss)
 - https://github.com/steinbergmedia/vstgui
 - [XUiDesigner](https://github.com/brummer10/XUiDesigner)
+- [HISE](http://hise.audio) (Dual licensed)
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
 ### Vocoders:
