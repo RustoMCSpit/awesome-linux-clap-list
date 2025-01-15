@@ -78,7 +78,7 @@ _how to install linux: 1) copy down your windows product key 2) backup your file
 
 Please note, some of the above are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
 
-All of the above plugins also work for Windows. _For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin https://github.com/DamRsn/NeuralNote and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)_
+All of the above plugins also work for Windows. _For Windows users, I would also advise looking at https://github.com/sdatkinson/NeuralAmpModelerPlugin and https://tonehunt.org (tonehunt is no longer FOSS but it's only a website)_
 
 Also, download this: https://github.com/ldrolez/free-midi-chords
 If you want realistic sounding instruments, look for .sfz samples and download [sfizz](https://github.com/sfztools/sfizz) (no .clap). Synths will never get you realistic sounding instruments, you NEED samples.
@@ -118,6 +118,7 @@ These are also interesting projects:
 22. [rektifier](https://github.com/TobiasKozel/rektifier) IPLUG2
 23. [MOD desktop](https://github.com/moddevices/mod-desktop)
 24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
+25. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
 
 
 
