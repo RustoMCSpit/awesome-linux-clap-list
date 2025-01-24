@@ -119,6 +119,7 @@ These are also interesting projects:
 23. [MOD desktop](https://github.com/moddevices/mod-desktop)
 24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
 25. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
+26. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
 
 
 
