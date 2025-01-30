@@ -120,6 +120,7 @@ These are also interesting projects:
 24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
 25. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
 26. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
+27. https://github.com/resonantdsp/swankyamp JUCE
 
 
 
