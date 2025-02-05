@@ -121,6 +121,7 @@ These are also interesting projects:
 25. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
 26. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
 27. https://github.com/resonantdsp/swankyamp JUCE
+28. https://github.com/Amsynth/Amsynth
 
 
 
