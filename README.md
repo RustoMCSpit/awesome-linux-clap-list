@@ -88,7 +88,9 @@ Just because it's free doesn't mean you shouldn't donate to support these creato
 Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY
 
 NOTE FOR SELF: Check what licenses the assets of these plugins are under and add here https://github.com/RustoMCSpit/Audio-UI-Components-Library
-What license are the art assets under?
+
+Art asset questions
+
 What license are the assets under? Who are they credited to? What software was used to make them and can you upload their project files? I wish to add them to a list of free to use UI assets for plugin development.
 
 
