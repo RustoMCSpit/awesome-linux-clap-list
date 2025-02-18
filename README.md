@@ -127,6 +127,7 @@ These are also interesting projects:
 26. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
 27. https://github.com/resonantdsp/swankyamp JUCE
 28. https://github.com/Amsynth/Amsynth
+29. https://github.com/atsushieno/ADLplug-AE/
 
 
 
