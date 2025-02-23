@@ -93,6 +93,20 @@ Art asset questions
 
 What license are the assets under? Who are they credited to? What software was used to make them and can you upload the project files for that software which you used to render the assets as well so I can modify it? I wish to add these assets to a list of free to use UI assets for plugin development.
 
+UIs to add
+- https://nakst.gitlab.io https://nakst.itch.io/
+- https://github.com/midilab/jc303/issues/24#issuecomment-2676141541
+
+Info to include
+- Software used to make UI
+- Licensing
+- Creator
+- Original REPO / Project
+
+https://github.com/RustoMCSpit/Audio-UI-Components-Library
+
+nig plug, egui, assets above tech stack
+
 
 
 
