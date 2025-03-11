@@ -96,6 +96,8 @@ What license are the assets under? Who are they credited to? What software was u
 UIs to add
 - https://nakst.gitlab.io https://nakst.itch.io/
 - https://github.com/midilab/jc303/issues/24#issuecomment-2676141541
+- https://github.com/jerryuhoo/Fire/issues/81#issuecomment-2714916147
+- more NAM art
 
 Info to include
 - Software used to make UI
