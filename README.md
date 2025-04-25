@@ -48,6 +48,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
 - [sfzq](https://github.com/stevefolta/sfzq) -SFZ/SF2 Player for Linux
+- [six-sines](https://github.com/baconpaul/six-sines) - That's the right number of sines, I think.
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
 - [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
 - [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) -  A stereo delay plugin with feedback and cross-mixing
