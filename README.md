@@ -19,7 +19,8 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [ChowKick](https://github.com/Chowdhury-DSP/ChowKick) - Kick synthesizer based on old-school drum machine circuits
 - [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin
 - [**CHOWTapeModel**](https://github.com/jatinchowdhury18/AnalogTapeModel) - **Physical modelling signal processing for analog tape recording**
-- [crrshrr](https://github.com/erroreyes/crrshrr) - A very simple bit crusher effect plugin
+- [crrshrr](https://github.com/erroreyes/crrshrr) - DCT clip/bitcrush plugin
+- [crunchy](https://github.com/Garneek/crunchy) - A very simple bit crusher effect plugin
 - [DEL2](https://github.com/magnetophon/DEL2) -  A rhythm delay with crunch.
 - [delax](https://github.com/awallenfang/delax) - A delay audio plugin
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
