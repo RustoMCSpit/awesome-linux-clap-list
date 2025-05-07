@@ -12,6 +12,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [AIDA-X](https://github.com/AidaDSP/aida-x) - AIDA-X, an Amp Model Player leveraging AI
 - [**Airwindows Consolidated**](https://github.com/baconpaul/airwin2rack) - **Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin**
 - [B-Step](https://github.com/surge-synthesizer/b-step) - The MonoPlugs b-step sequencer
+- [Bit Flipper](https://github.com/eye-wave/bit-flipper-vst) -  Bit manipulation distortion plugin.
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Build-your-own guitar distortion!
 - [**Cardinal**](https://github.com/DISTRHO/Cardinal) - **Virtual modular synthesizer plugin**
 - [castello](https://github.com/lucianoiam/castello) - A small reverb plugin based on Csound reverbsc
