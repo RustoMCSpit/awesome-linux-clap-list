@@ -121,7 +121,7 @@ These are also interesting projects:
 1. [ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer)
 2. [Valentine](https://github.com/Tote-Bag-Labs/Valentine)
 3. [VChorus](https://github.com/podgorskiy/VChorus) IPLUG2
-4. [time1](https://github.com/tiagolr/time1) IPLUG2
+4. [time1](https://github.com/tiagolr/time12) IPLUG2
 5. [Magical8bitPlug2](https://github.com/yokemura/Magical8bitPlug2)
 6. [Quetzalcoatl](https://github.com/publicsamples/Quetzalcoatl)
 7. [Fire](https://github.com/jerryuhoo/Fire)
