@@ -155,6 +155,7 @@ CLAP/Linux status:
 - [iPlug2 project #11](https://github.com/orgs/iPlug2/projects/11)
 - [CLAP: The New Audio Plug-in Standard](https://forum.hise.audio/topic/6025/clap-the-new-audio-plug-in-standard?_=1723839178962)
 - [Plugins made with DPF](https://github.com/DISTRHO/DPF/wiki/Plugins-made-with-DPF)
+- JUCE Clap support in JUCE 9 (2026)
 
 
 Can't find the JUCE one? The announcement is also here: [JUCE Roadmap Update Q3 2024](https://forum.juce.com/t/juce-roadmap-update-q3-2024/62275). 
