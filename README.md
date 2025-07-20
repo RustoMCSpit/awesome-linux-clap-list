@@ -144,9 +144,10 @@ These are also interesting projects:
 24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
 25. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
 26. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
-27. https://github.com/resonantdsp/swankyamp JUCE
-28. https://github.com/Amsynth/Amsynth
-29. https://github.com/atsushieno/ADLplug-AE/
+27. https://github.com/brummer10/guitarix.vst/issues/44 JUCE
+28. https://github.com/resonantdsp/swankyamp JUCE
+29. https://github.com/Amsynth/Amsynth
+30. https://github.com/atsushieno/ADLplug-AE/
 
 
 
