@@ -147,7 +147,8 @@ These are also interesting projects:
 27. https://github.com/brummer10/guitarix.vst/issues/44 JUCE
 28. https://github.com/resonantdsp/swankyamp JUCE
 29. https://github.com/Amsynth/Amsynth
-30. https://github.com/atsushieno/ADLplug-AE/
+30. https://github.com/atsushieno/ADLplug-AE
+31. https://github.com/Gluton-Official/FreqChain
 
 
 
