@@ -44,6 +44,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [nih-plug plugins](https://github.com/robbert-vdh/nih-plug) - A collection of basic plugins
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
+- [OmniAmp](https://github.com/ArborealAudio/OmniAmp) - Multi-purpose audio tool. Distortion, compression, reverb, guitar, bass
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
 - [Penare](https://github.com/azur1s/penare) -  A wonky distortion plugin :3
 - [PiMax](https://github.com/ArborealAudio/PiMax) - Loudness maximizer & multiband saturation plugin
