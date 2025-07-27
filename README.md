@@ -46,20 +46,23 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [PeakEater](https://github.com/vvvar/PeakEater) -  A wave shaper plugin
 - [Penare](https://github.com/azur1s/penare) -  A wonky distortion plugin :3
+- [PiMax](https://github.com/ArborealAudio/PiMax) - Loudness maximizer & multiband saturation plugin
 - [plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
 - [ripchord](https://github.com/prg318/ripchord) - Chord tool originally from trackbout; this fork adds CLAP support
 - [RoomReverb](https://github.com/cvde/RoomReverb) - A mono/stereo to stereo algorithmic reverb audio plugin with many presets that lets you add reverberation to your recordings in your DAW
 - [Scrollscope](https://github.com/ardura/Scrollscope) - A simple scrolling oscilloscope
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
-- [sfzq](https://github.com/stevefolta/sfzq) -SFZ/SF2 Player for Linux
 - [six-sines](https://github.com/baconpaul/six-sines) - That's the right number of sines, I think.
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
+- [SG-323](https://github.com/greyboxaudio/SG-323) - Ursa Major Stargate 323 emulation 
 - [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
 - [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) -  A stereo delay plugin with feedback and cross-mixing
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
 - [StompTuner](https://github.com/brummer10/StompTuner) - Strobe Tuner
+- [STR-X](https://github.com/ArborealAudio/STR-X) -  Custom Guitar Amplfier 
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
 - [**Surge XT**](https://github.com/surge-synthesizer/surge) - **Synthesizer plug-in (previously released as Vember Audio Surge)**
+- [sfzq](https://github.com/stevefolta/sfzq) -SFZ/SF2 Player for Linux
 - [Terrain](https://github.com/aaronaanderson/Terrain) - Open Source Wave Terrain Synth 
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
 - [unplugred plugins](https://vst.unplug.red) - Different unique plugins (please donate if you can) Also here: https://github.com/unplugred/vsts
@@ -74,6 +77,7 @@ Also here: https://github.com/mtytel/vital
 - [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
 
+https://linuxdaw.org/?f=clap&l=o
 -----------------------
 
 _how to install linux: 1) copy down your windows product key 2) backup your files to a harddrive 3) install the linux mint cinnamon .iso file from the [linux mint website](https://www.linuxmint.com) 4) use [etcher](https://etcher.balena.io) (download from its website) to put the .iso on a usb flash drive 5) go into bios 6) boot from the usb 7) go through the introduction and then erase all of your computers the storage and install 8) press update all in the update manager 9) celebrate. it takes 15 minutes._
@@ -103,6 +107,7 @@ UIs to add
 - https://github.com/midilab/jc303/issues/24#issuecomment-2676141541
 - https://github.com/jerryuhoo/Fire/issues/81#issuecomment-2714916147
 - more NAM art
+- https://github.com/dsp56300/gearmulator/discussions/242
 
 Info to include
 - Software used to make UI
@@ -155,6 +160,7 @@ These are also interesting projects:
 33. https://github.com/bdejong/smartelectronix
 34. https://github.com/calgoheen/cStop
 35. https://github.com/Davit-G/Hamburger
+36. https://punklabs.com/ot-chonk
 
 
 
