@@ -150,6 +150,8 @@ These are also interesting projects:
 30. https://github.com/atsushieno/ADLplug-AE
 31. https://github.com/Gluton-Official/FreqChain
 32. https://github.com/dvub/midiometry
+33. https://github.com/bdejong/smartelectronix
+34. https://github.com/calgoheen/cStop
 
 
 
