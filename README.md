@@ -63,7 +63,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [STR-X](https://github.com/ArborealAudio/STR-X) -  Custom Guitar Amplfier 
 - [Subhoofer](https://github.com/ardura/Subhoofer) - Sub and Bass Enhancement plugin
 - [**Surge XT**](https://github.com/surge-synthesizer/surge) - **Synthesizer plug-in (previously released as Vember Audio Surge)**
-- [sfzq](https://github.com/stevefolta/sfzq) -SFZ/SF2 Player for Linux
+- [sfzq](https://github.com/stevefolta/sfzq) - SFZ/SF2 Player for Linux
 - [Terrain](https://github.com/aaronaanderson/Terrain) - Open Source Wave Terrain Synth 
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
 - [unplugred plugins](https://vst.unplug.red) - Different unique plugins (please donate if you can) Also here: https://github.com/unplugred/vsts
@@ -162,7 +162,7 @@ These are also interesting projects:
 34. https://github.com/calgoheen/cStop
 35. https://github.com/Davit-G/Hamburger
 36. https://punklabs.com/ot-chonk
-
+37. https://github.com/unplugred/vsts
 
 
 CLAP/Linux status:
