@@ -101,7 +101,11 @@ NOTE FOR SELF: Check what licenses the assets of these plugins are under and add
 
 Art asset questions
 
-What license are the assets under? Who are they credited to? What software was used to make them and can you upload the project files for that software which you used to render the assets as well so I can modify it? I wish to add these assets to a list of free to use UI assets for plugin development.
+I wish to add these assets to a list of free to use UI assets for plugin development.
+
+What license are the assets under?
+Who are they credited to?
+What software was used to make them and can you upload the project files for that software which you used to render the assets as well so I can modify it?
 
 UIs to add
 - https://nakst.gitlab.io https://nakst.itch.io/
@@ -109,6 +113,7 @@ UIs to add
 - https://github.com/jerryuhoo/Fire/issues/81#issuecomment-2714916147
 - more NAM art
 - https://github.com/dsp56300/gearmulator/discussions/242
+- https://github.com/rerdavies/ToobAmp/issues/65
 
 Info to include
 - Software used to make UI
