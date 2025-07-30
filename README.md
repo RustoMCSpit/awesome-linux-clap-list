@@ -77,6 +77,7 @@ Also here: https://github.com/mtytel/vital
 - [wstd-flangr](https://github.com/Wasted-Audio/wstd-flangr) - Simple flanger plugin
 - [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
+- [ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx) - ZynAddSubFX open source synthesizer 
 
 https://linuxdaw.org/?f=clap&l=o
 -----------------------
