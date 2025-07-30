@@ -95,7 +95,7 @@ If you want realistic sounding instruments, look for .sfz samples and download [
 
 Just because it's free doesn't mean you shouldn't donate to support these creators! Your choice!!
 
-Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY
+Oh and truly lastly, "but are these plugins as good as paid plugins", mostly yes (besides the sample based ones so far). Plugins have largely just become rehashes of each other, most reverb, compression, EQ, etc. plugins do the exact same thing with a different coat of paint https://www.youtube.com/watch?v=0tWHFRbooCY https://www.youtube.com/watch?v=IaDoRa5n8nQ&t=115s
 
 NOTE FOR SELF: Check what licenses the assets of these plugins are under and add here https://github.com/RustoMCSpit/Audio-UI-Components-Library
 
