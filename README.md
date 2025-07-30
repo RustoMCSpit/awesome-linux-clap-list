@@ -114,6 +114,7 @@ UIs to add
 - more NAM art
 - https://github.com/dsp56300/gearmulator/discussions/242
 - https://github.com/rerdavies/ToobAmp/issues/65
+- https://github.com/calf-studio-gear/calf/issues/389
 
 Info to include
 - Software used to make UI
