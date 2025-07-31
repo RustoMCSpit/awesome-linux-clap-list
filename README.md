@@ -188,6 +188,7 @@ If any of you nerds want to make a GUI based MIDI chord generator plugin, you ca
 https://github.com/fefanto/fontaudio
 https://github.com/Remix-Design/RemixIcon
 https://github.com/robbert-vdh/nih-plug
+https://github.com/brummer10/XUiDesigner
 https://github.com/emilk/egui
 
 Python converters:
