@@ -241,6 +241,11 @@ Sort out below later:
 - [torchcrepe](https://github.com/maxrmorrison/torchcrepe) by maxrmorrison
 - [anyf0](https://github.com/SoulMelody/anyf0) by SoulMelody
 
+To focus on
+https://github.com/sjoerdvankreel/firefly-synth-2
+https://github.com/andremichelle/openDAW
+https://github.com/open-audio-stack/open-audio-stack-registry
+
 ### Other:
 - [FAIRSEQ](https://github.com/facebookresearch/fairseq) by facebookresearch
 - [FAISS](https://github.com/facebookresearch/faiss) by facebookresearch
