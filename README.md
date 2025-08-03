@@ -42,6 +42,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
 - [midi_transpose_rs](https://github.com/stfufane/midi_transpose_rs) - Midi Transposer
 - [nih-plug plugins](https://github.com/robbert-vdh/nih-plug) - A collection of basic plugins
+- [OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - A synth nspired by the venerable Oberheim OB-X
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
 - [Odin 2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [OmniAmp](https://github.com/ArborealAudio/OmniAmp) - Multi-purpose audio tool. Distortion, compression, reverb, guitar, bass
