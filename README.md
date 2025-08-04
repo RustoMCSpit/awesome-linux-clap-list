@@ -33,6 +33,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
 - [fluidsynth](https://github.com/cannerycoders/fluidsynth.clap) -  A clap-plugin bridge to fluidsynth
+- [Hamburg](https://github.com/Davit-G/Hamburger) - A distortion plugin with inbuilt dynamics controls and equalisation
 - [hardclipper](https://github.com/erroreyes/hardclipper) - A simple hard clipper
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
 - [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine
@@ -167,7 +168,6 @@ These are also interesting projects:
 31. https://github.com/Gluton-Official/FreqChain
 32. https://github.com/dvub/midiometry
 33. https://github.com/bdejong/smartelectronix
-35. https://github.com/Davit-G/Hamburger
 36. https://punklabs.com/ot-chonk
 37. https://github.com/unplugred/vsts
 38. https://github.com/DirektDSP/Chasm
