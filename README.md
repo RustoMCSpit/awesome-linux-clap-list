@@ -171,6 +171,8 @@ These are also interesting projects:
 35. https://github.com/Davit-G/Hamburger
 36. https://punklabs.com/ot-chonk
 37. https://github.com/unplugred/vsts
+38. https://github.com/DirektDSP/Chasm
+39. https://github.com/consint/Pult-EQ
 
 
 CLAP/Linux status:
