@@ -224,6 +224,23 @@ These are also interesting projects:
 88. https://github.com/movedx/Utility
 89. https://github.com/Dimethoxy/Disflux
 90. https://gitlab.com/ayrsd/audiostellar https://www.youtube.com/watch?v=g-_5QuyPFUs
+91. https://github.com/ivop/pokeysynth
+92. https://github.com/Mrugalla/Hammer-and-Meiszel
+93. https://github.com/sout233/Folder
+94. https://github.com/jd-13/syndicate-mirror
+95. https://github.com/zbanks/radiance
+96. https://github.com/psemiletov/drumlabooh
+97. https://github.com/peastman/ChorusExMachina
+98. https://github.com/gabrielsoule/resonarium
+99. https://github.com/gwennlbh/shapemaker
+100. https://github.com/QualyaIO/obtuse.DPF
+101. https://github.com/MrMatch246/MidiStrummer
+102. https://github.com/sjaehn/BShapr
+103. https://github.com/NaviCisco/StoneMistress
+104. https://github.com/trummerschlunk/PodcastPlugins
+105. https://github.com/greyboxaudio/SG-323
+106. https://gitlab.com/wild-blossom-audio/wild-blossom-plugins
+107. https://github.com/0x07dc/declicker
 
 
 CLAP/Linux status:
