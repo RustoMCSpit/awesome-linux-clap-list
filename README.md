@@ -215,6 +215,15 @@ These are also interesting projects:
 79. https://github.com/pumodi/open-samples
 80. https://github.com/giulioz/jv880_juce
 81. https://github.com/Gluton-Official/FreqChain
+82. https://github.com/danferns/simple-panner
+83. https://github.com/chaosprint/asak
+84. https://github.com/signalbash-audio/signalbash
+85. https://github.com/Matth-ewe-f/audio-plugin-delay-intervals
+86. https://twkrause.ca/#signalviewlv2
+87. https://github.com/publicsamples/Shapey
+88. https://github.com/movedx/Utility
+89. https://github.com/Dimethoxy/Disflux
+90. https://gitlab.com/ayrsd/audiostellar https://www.youtube.com/watch?v=g-_5QuyPFUs
 
 
 CLAP/Linux status:
