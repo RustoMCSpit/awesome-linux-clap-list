@@ -167,7 +167,6 @@ These are also interesting projects:
 31. https://github.com/Gluton-Official/FreqChain
 32. https://github.com/dvub/midiometry
 33. https://github.com/bdejong/smartelectronix
-34. https://github.com/calgoheen/cStop
 35. https://github.com/Davit-G/Hamburger
 36. https://punklabs.com/ot-chonk
 37. https://github.com/unplugred/vsts
