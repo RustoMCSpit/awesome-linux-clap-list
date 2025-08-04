@@ -248,6 +248,7 @@ To focus on
 https://github.com/sjoerdvankreel/firefly-synth-2
 https://github.com/andremichelle/openDAW
 https://github.com/open-audio-stack/open-audio-stack-registry
+unfa's discord software thread has a lot of stuff
 
 ### Other:
 - [FAIRSEQ](https://github.com/facebookresearch/fairseq) by facebookresearch
