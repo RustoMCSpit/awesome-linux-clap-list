@@ -119,7 +119,9 @@ UIs to add
 - https://github.com/rerdavies/ToobAmp/issues/65
 - https://github.com/calf-studio-gear/calf/issues/389
 - any skins of plugins or daws or anything
-- 
+- cool companies to get inspired from https://uimother.com/collections/gui-kits
+- a html to svg converter for https://uiverse.io
+- https://polyhaven.com
 
 Info to include
 - Software used to make UI
