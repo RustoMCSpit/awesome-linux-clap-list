@@ -110,7 +110,7 @@ What license are the assets under?
 Who are they credited to?
 What software was used to make them and can you upload the project files for that software which you used to render the assets as well so I can modify it?
 
-maybe i should merge this with OAS
+maybe i should merge this with OAS https://github.com/open-audio-stack/open-audio-stack-registry/issues/157
 UIs to add
 - https://nakst.gitlab.io https://nakst.itch.io/
 - https://github.com/midilab/jc303/issues/24#issuecomment-2676141541
