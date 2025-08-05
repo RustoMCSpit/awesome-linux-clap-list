@@ -123,6 +123,7 @@ UIs to add
 - cool companies to get inspired from https://uimother.com/collections/gui-kits
 - a html to svg converter for https://uiverse.io
 - https://polyhaven.com
+- https://github.com/surge-synthesizer/surge-synthesizer.github.io/issues/395
 
 Info to include
 - Software used to make UI
