@@ -246,6 +246,11 @@ These are also interesting projects:
 105. https://github.com/greyboxaudio/SG-323
 106. https://gitlab.com/wild-blossom-audio/wild-blossom-plugins
 107. https://github.com/0x07dc/declicker
+108. https://github.com/Geonkick-Synthesizer/geonkick
+109. https://github.com/viljavai/RibCrusher juce
+110. https://github.com/innermost47/beatcrafter
+111. https://github.com/nafeu/dronmakr
+112. https://github.com/Ankalot/XenRoll
 
 
 CLAP/Linux status:
