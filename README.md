@@ -251,6 +251,7 @@ These are also interesting projects:
 110. https://github.com/innermost47/beatcrafter
 111. https://github.com/nafeu/dronmakr
 112. https://github.com/Ankalot/XenRoll
+113. https://github.com/Mrugalla/Absorbiere
 
 
 CLAP/Linux status:
