@@ -252,6 +252,7 @@ These are also interesting projects:
 111. https://github.com/nafeu/dronmakr
 112. https://github.com/Ankalot/XenRoll
 113. https://github.com/Mrugalla/Absorbiere
+114. https://github.com/psemiletov/drumlabooh
 
 
 CLAP/Linux status:
