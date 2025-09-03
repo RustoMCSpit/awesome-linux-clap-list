@@ -124,6 +124,7 @@ UIs to add
 - a html to svg converter for https://uiverse.io
 - https://polyhaven.com
 - https://github.com/surge-synthesizer/surge-synthesizer.github.io/issues/395 Royal dark and classic are cc0 but not sure on others
+- https://github.com/eye-wave/bit-flipper-vst/issues/2
 
 Info to include
 - Software used to make UI
