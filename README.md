@@ -258,6 +258,11 @@ These are also interesting projects:
 116. https://github.com/eye-wave/bit-flipper-vst
 117. https://github.com/oxesoft/oxefmsynth
 118. https://github.com/Lubba-64/node_sound
+119. https://github.com/paynebc/tunefish
+120. https://github.com/the-synister/synister
+121. https://github.com/bsutherland/JuceOPLVSTi
+122. https://github.com/LouisGorenfeld/DigitsVst
+123. https://github.com/gregrecco67/AudiblePlanets
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
