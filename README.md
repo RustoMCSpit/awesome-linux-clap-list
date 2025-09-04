@@ -257,6 +257,7 @@ These are also interesting projects:
 115. https://github.com/fullfxmedia/setekh JUCE
 116. https://github.com/eye-wave/bit-flipper-vst
 117. https://github.com/oxesoft/oxefmsynth
+118. https://github.com/Lubba-64/node_sound
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
