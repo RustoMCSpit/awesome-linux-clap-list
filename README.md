@@ -269,6 +269,7 @@ These are also interesting projects:
 123. https://github.com/gregrecco67/AudiblePlanets
 124. https://github.com/davemollen/dm-TimeWarp huge amount of plugins by this person
 125. [cStop](https://github.com/calgoheen/cStop)
+126. https://github.com/Kiriki-liszt/JS_Inflator lots of plugins
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
