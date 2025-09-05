@@ -109,7 +109,7 @@ Art asset questions
 
 I wish to add these assets to a list of free to use UI assets for plugin development.
 
-What license are the assets under?
+What license are the assets under? Licenses like GPL, MIT, etc. aren't made for art assets.
 Who are they credited to?
 What software was used to make them and can you upload the project files for that software which you used to render the assets as well so I can modify it?
 
@@ -129,6 +129,7 @@ UIs to add
 - https://github.com/surge-synthesizer/surge-synthesizer.github.io/issues/395 Royal dark and classic are cc0 but not sure on others
 - https://github.com/eye-wave/bit-flipper-vst/issues/2
 - https://github.com/davemollen/dm-TimeWarp/issues/2
+- https://github.com/dsp56300/gearmulator/issues/245
 
 Info to include
 - Software used to make UI
