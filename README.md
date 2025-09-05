@@ -82,6 +82,9 @@ Also here: https://github.com/mtytel/vital
 - [ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx) - ZynAddSubFX open source synthesizer 
 
 https://linuxdaw.org/?f=clap&l=o
+https://pedalboards.mod.audio/plugins
+https://library.vcvrack.com
+https://cardinal.kx.studio/modules
 -----------------------
 
 _how to install linux: 1) copy down your windows product key 2) backup your files to a harddrive 3) install the linux mint cinnamon .iso file from the [linux mint website](https://www.linuxmint.com) 4) use [etcher](https://etcher.balena.io) (download from its website) to put the .iso on a usb flash drive 5) go into bios 6) boot from the usb 7) go through the introduction and then erase all of your computers the storage and install 8) press update all in the update manager 9) celebrate. it takes 15 minutes._
