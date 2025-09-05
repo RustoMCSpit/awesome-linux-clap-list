@@ -3,7 +3,7 @@ A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux 
 
 You can download these and more using this soon https://github.com/open-audio-stack/open-audio-stack-registry
 
-**WARNING: [cStop](https://github.com/calgoheen/cStop) has been flagged for malware. The author has been contacted. https://github.com/open-audio-stack/open-audio-stack-registry/pull/145**
+
 
 **(Bold are my recommended plugins)**
 
@@ -268,6 +268,7 @@ These are also interesting projects:
 122. https://github.com/LouisGorenfeld/DigitsVst
 123. https://github.com/gregrecco67/AudiblePlanets
 124. https://github.com/davemollen/dm-TimeWarp huge amount of plugins by this person
+125. [cStop](https://github.com/calgoheen/cStop)
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
