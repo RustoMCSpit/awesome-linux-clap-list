@@ -273,6 +273,7 @@ These are also interesting projects:
 126. https://github.com/Kiriki-liszt/JS_Inflator lots of plugins
 127. https://github.com/noahbaxter/chart-preview
 128. https://github.com/sjaehn/BOops
+129. https://github.com/estroBiologist/SFLT
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
