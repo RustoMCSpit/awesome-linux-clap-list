@@ -274,6 +274,8 @@ These are also interesting projects:
 127. https://github.com/noahbaxter/chart-preview
 128. https://github.com/sjaehn/BOops
 129. https://github.com/estroBiologist/SFLT
+130. https://github.com/DISTRHO/Re-Nooice
+131. https://github.com/amateurtools/Plucks/
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
