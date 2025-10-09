@@ -276,6 +276,7 @@ These are also interesting projects:
 129. https://github.com/estroBiologist/SFLT
 130. https://github.com/DISTRHO/Re-Nooice
 131. https://github.com/amateurtools/Plucks/
+132. https://github.com/cjitter/JCBTransient JUCE
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
