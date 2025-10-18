@@ -279,6 +279,7 @@ These are also interesting projects:
 132. https://github.com/cjitter/JCBTransient JUCE
 133. https://github.com/eventual-recluse/LiveCut-Redux
 134. https://github.com/GullDSP/Circulate-VST
+135. https://github.com/joshband/GenerativeMIDI
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
