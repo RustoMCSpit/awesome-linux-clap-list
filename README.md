@@ -280,6 +280,10 @@ These are also interesting projects:
 133. https://github.com/eventual-recluse/LiveCut-Redux
 134. https://github.com/GullDSP/Circulate-VST
 135. https://github.com/joshband/GenerativeMIDI
+136. https://github.com/djshaji/ariel
+137. https://github.com/vitling/crypt
+
+
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
