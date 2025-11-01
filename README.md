@@ -283,6 +283,11 @@ These are also interesting projects:
 136. https://github.com/djshaji/ariel
 137. https://github.com/vitling/crypt
 138. https://github.com/melinteflxrin/DISTROAR-Distortion-Plugin
+139. https://github.com/DatanoiseTV/spice-oss
+140. https://github.com/Kiriki-liszt/Relief_Compressor
+141. https://github.com/PatttF/zynMI
+142. https://github.com/brummer10/Loopino
+143. https://github.com/Moebytes/Vocal-Chopper
 
 
 
