@@ -288,6 +288,11 @@ These are also interesting projects:
 141. https://github.com/PatttF/zynMI
 142. https://github.com/brummer10/Loopino
 143. https://github.com/Moebytes/Vocal-Chopper
+144. https://github.com/InToEtherion/DrumGroovePro
+145. https://github.com/chernistry/cr717
+146. https://github.com/Wamphyre/DrumCraker
+147. https://github.com/DatanoiseTV/spice-oss
+148. https://github.com/odoare/Image-In
 
 
 
