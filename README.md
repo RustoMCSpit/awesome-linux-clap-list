@@ -293,8 +293,30 @@ These are also interesting projects:
 146. https://github.com/Wamphyre/DrumCraker
 147. https://github.com/DatanoiseTV/spice-oss
 148. https://github.com/odoare/Image-In
+149. https://github.com/Wamphyre/DrumCraker
+150. https://github.com/chernistry/cr717
+151. https://github.com/InToEtherion/DrumGroovePro
+152. https://github.com/FilTer87/VST-AnalogChannel
+153. https://github.com/stancsz/fdnr-vst3
+154. https://github.com/Mg32/Inharmonic
+155. https://github.com/hlavnjak/lesynth-fourier
+156. https://github.com/kushview/retuner
+157. https://github.com/masseyis/plaits-vst
+158. https://github.com/odoare/RhyGa
+159. https://github.com/gmoican/PunkOTT
+160. https://github.com/smiarx/aether
+161. https://github.com/Dougal-s/Aether
+162. https://github.com/glesdora/boris-granular-station
+163. https://github.com/BillyDM/CTAGDRC
+164. https://github.com/quamplex/entropictron
+165. https://github.com/theKAOSSphere/integra
+166. https://github.com/jmantra/jdrummer
+167. https://github.com/trencrumb/SpectralShift
+168. https://github.com/bandithedoge/misstrhortion
+169. https://github.com/nytemairqt/altar
+170. https://github.com/Thiagohgl/DyERS-dynamic-resonance-suppressor
 
-
+https://github.com/OpenSauce/rustortion
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
