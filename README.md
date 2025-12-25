@@ -315,6 +315,7 @@ These are also interesting projects:
 168. https://github.com/bandithedoge/misstrhortion
 169. https://github.com/nytemairqt/altar
 170. https://github.com/Thiagohgl/DyERS-dynamic-resonance-suppressor
+171. https://github.com/airwindows/ConsoleHPre
 
 https://github.com/OpenSauce/rustortion
 
