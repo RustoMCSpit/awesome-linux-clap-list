@@ -318,6 +318,7 @@ These are also interesting projects:
 171. https://github.com/airwindows/ConsoleHPre
 172. https://github.com/dlarseninclusive/UhbikWrapper
 173. https://github.com/gmoican/PunkOTT-MB
+174. https://github.com/josura/Aeolus
 
 https://github.com/OpenSauce/rustortion
 
