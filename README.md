@@ -350,6 +350,7 @@ https://github.com/Remix-Design/RemixIcon
 https://github.com/robbert-vdh/nih-plug
 https://codeberg.org/obsoleszenz/lowpass-lr4-faust-nih-plug
 https://github.com/brummer10/XUiDesigner https://github.com/ffAudio/foleys_gui_magic
+https://plugdata.org
 https://github.com/emilk/egui
 
 
