@@ -172,15 +172,16 @@ These are also interesting projects:
 22. [rektifier](https://github.com/TobiasKozel/rektifier) IPLUG2
 23. [MOD desktop](https://github.com/moddevices/mod-desktop)
 24. [GuitarD](https://github.com/TobiasKozel/GuitarD) IPLUG2
-25. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
-26. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
-27. https://github.com/brummer10/guitarix.vst/issues/44 JUCE
-28. https://github.com/resonantdsp/swankyamp JUCE
-29. https://github.com/Amsynth/Amsynth
-30. https://github.com/atsushieno/ADLplug-AE
-31. https://github.com/Gluton-Official/FreqChain
-32. https://github.com/dvub/midiometry
-33. https://github.com/bdejong/smartelectronix
+25. https://guitarml.com/
+26. [NeuralNote](https://github.com/DamRsn/NeuralNote) JUCE
+27. [Bespoke](https://github.com/BespokeSynth/BespokeSynth)
+28. https://github.com/brummer10/guitarix.vst/issues/44 JUCE
+29. https://github.com/resonantdsp/swankyamp JUCE
+30. https://github.com/Amsynth/Amsynth
+31. https://github.com/atsushieno/ADLplug-AE
+32. https://github.com/Gluton-Official/FreqChain
+33. https://github.com/dvub/midiometry
+34. https://github.com/bdejong/smartelectronix
 36. https://punklabs.com/ot-chonk
 37. https://github.com/unplugred/vsts
 38. https://github.com/DirektDSP/Chasm
