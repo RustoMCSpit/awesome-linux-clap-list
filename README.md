@@ -68,6 +68,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [sfzq](https://github.com/stevefolta/sfzq) - SFZ/SF2 Player for Linux
 - [Terrain](https://github.com/aaronaanderson/Terrain) - Open Source Wave Terrain Synth 
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
+- [UhbikWrapper](https://github.com/dlarseninclusive/UhbikWrapper) - Reason-style VST3 wrapper for chaining multiple effects with preset management 
 - [unplugred plugins](https://vst.unplug.red) - Different unique plugins (please donate if you can) Also here: https://github.com/unplugred/vsts
 - [**Vital**](https://vital.audio/) - **Wavetable synth**
 Also here: https://github.com/mtytel/vital
@@ -316,7 +317,6 @@ These are also interesting projects:
 169. https://github.com/nytemairqt/altar
 170. https://github.com/Thiagohgl/DyERS-dynamic-resonance-suppressor
 171. https://github.com/airwindows/ConsoleHPre
-172. https://github.com/dlarseninclusive/UhbikWrapper
 173. https://github.com/gmoican/PunkOTT-MB
 174. https://github.com/josura/Aeolus
 
