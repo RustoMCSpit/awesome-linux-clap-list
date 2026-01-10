@@ -319,6 +319,15 @@ These are also interesting projects:
 171. https://github.com/airwindows/ConsoleHPre
 173. https://github.com/gmoican/PunkOTT-MB
 174. https://github.com/josura/Aeolus
+175. https://github.com/maor1993/open_mbc
+176. https://github.com/sobrinN/FIDI-comp
+177. https://github.com/httpsworldview/openmeters
+178. https://github.com/Interspectral6/Erode
+179. https://github.com/khoidauminh/coffeevis_rs
+180. https://github.com/ZorakAudio/ZorakAudio-Experimental-Plugins
+181. https://github.com/zbanks/radiance
+182. https://github.com/lbovet/romulus
+183. https://github.com/rominator1983/guitarSynth.lv2
 
 https://github.com/OpenSauce/rustortion
 
@@ -338,8 +347,10 @@ If any of you nerds want to make a GUI based MIDI chord generator plugin, you ca
 https://github.com/fefanto/fontaudio
 https://github.com/Remix-Design/RemixIcon
 https://github.com/robbert-vdh/nih-plug
+https://codeberg.org/obsoleszenz/lowpass-lr4-faust-nih-plug
 https://github.com/brummer10/XUiDesigner https://github.com/ffAudio/foleys_gui_magic
 https://github.com/emilk/egui
+
 
 Python converters:
 https://github.com/MarkCWirt/MIDIUtil
