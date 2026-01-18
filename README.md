@@ -329,6 +329,7 @@ These are also interesting projects:
 181. https://github.com/zbanks/radiance
 182. https://github.com/lbovet/romulus
 183. https://github.com/rominator1983/guitarSynth.lv2
+184. https://github.com/dhilowitz/GayageumVST
 
 https://github.com/OpenSauce/rustortion
 
