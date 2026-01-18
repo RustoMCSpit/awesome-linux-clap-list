@@ -330,6 +330,7 @@ These are also interesting projects:
 182. https://github.com/lbovet/romulus
 183. https://github.com/rominator1983/guitarSynth.lv2
 184. https://github.com/dhilowitz/GayageumVST
+185. https://gitlab.com/wild-blossom-audio/wild-blossom-plugins
 
 https://github.com/OpenSauce/rustortion
 
