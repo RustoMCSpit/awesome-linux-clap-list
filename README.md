@@ -331,6 +331,8 @@ These are also interesting projects:
 183. https://github.com/rominator1983/guitarSynth.lv2
 184. https://github.com/dhilowitz/GayageumVST
 185. https://gitlab.com/wild-blossom-audio/wild-blossom-plugins
+186. https://github.com/pachadotdev/british-treble-booster-vst3
+187. https://github.com/sout233/im_disperser
 
 https://github.com/OpenSauce/rustortion
 
