@@ -356,6 +356,11 @@ https://github.com/brummer10/XUiDesigner https://github.com/ffAudio/foleys_gui_m
 https://plugdata.org
 https://github.com/emilk/egui
 
+other frameworks and dependencies
+https://github.com/ArborealAudio/arbor
+[HISE](http://hise.audio) (Dual licensed)
+https://github.com/Chowdhury-DSP/chowdsp_utils
+
 
 Python converters:
 https://github.com/MarkCWirt/MIDIUtil
@@ -382,7 +387,6 @@ Sort out below later:
 - https://ewanbristow.gumroad.com/ (not foss)
 - https://github.com/steinbergmedia/vstgui
 - [XUiDesigner](https://github.com/brummer10/XUiDesigner)
-- [HISE](http://hise.audio) (Dual licensed)
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
 ### Vocoders:
