@@ -252,7 +252,6 @@ These are also interesting projects:
 103. https://github.com/NaviCisco/StoneMistress
 104. https://github.com/trummerschlunk/PodcastPlugins
 105. https://github.com/greyboxaudio/SG-323
-106. https://gitlab.com/wild-blossom-audio/wild-blossom-plugins
 107. https://github.com/0x07dc/declicker
 108. https://github.com/Geonkick-Synthesizer/geonkick
 109. https://github.com/viljavai/RibCrusher juce
