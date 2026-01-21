@@ -2,6 +2,7 @@
 A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux for your own sake, detailed below)_. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
 
 You can download many of these here https://studiorack.github.io/studiorack-site/
+
 you can upload plugins here https://open-audio-stack.github.io/open-audio-stack-site/
 
 
