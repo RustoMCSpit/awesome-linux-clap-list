@@ -35,7 +35,7 @@ You can download these and more using this soon https://github.com/open-audio-st
 - [fluidsynth](https://github.com/cannerycoders/fluidsynth.clap) -  A clap-plugin bridge to fluidsynth
 - [Hamburger](https://github.com/Davit-G/Hamburger) - A distortion plugin with inbuilt dynamics controls and equalisation
 - [hardclipper](https://github.com/erroreyes/hardclipper) - A simple hard clipper
-- [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin.
+- [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin. (PLUGIN AUTHOR REMOVED PLUGIN)
 - [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine
 - [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb
 - [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project
