@@ -195,7 +195,6 @@ These are also interesting projects:
 44. https://github.com/potatoTeto/DPCM_Bitcrusher
 45. https://github.com/twonoise/rfclipper
 46. https://github.com/yeeking/myk-polypitch-detect-plugin
-47. https://github.com/ZXMushroom63/synthetic-audio
 48. https://github.com/google/eclipsa-audio-plugin
 49. https://github.com/Fenrir200678/melody_mate
 50. https://github.com/declanmcm/fildes
@@ -374,6 +373,18 @@ Look into this: https://audioplugins.lim.di.unimi.it/index.php
 
 
 Sort out below later:
+
+### DAWS:
+https://github.com/ZXMushroom63/synthetic-audio
+https://github.com/andremichelle/openDAW
+https://github.com/rserota/wad
+https://github.com/stargatedaw/stargate
+https://github.com/MeadowlarkDAW/Meadowlark
+https://github.com/tuneflow/tuneflow
+https://github.com/chipnertkj/chipbox
+https://github.com/gridsound/daw
+https://github.com/LMMS/lmms
+https://github.com/DBraun/DawDreamer
 
 ### Projects:
 - [UltraSinger](https://github.com/rakuri255/UltraSinger)
