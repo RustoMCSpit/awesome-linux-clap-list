@@ -44,6 +44,7 @@ you can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [master_me](https://github.com/trummerschlunk/master_me) - Automatic mastering plugin for live streaming, podcasts and internet radio
 - [MoniqueMonosynth](https://github.com/surge-synthesizer/monique-monosynth) - Monique monosynth
 - [midi_transpose_rs](https://github.com/stfufane/midi_transpose_rs) - Midi Transposer
+- [NeuralRack](https://github.com/brummer10/NeuralRack) -  NeuralRack is a Neural Model and Impulse Response File loader for Linux/Windows.
 - [nih-plug plugins](https://github.com/robbert-vdh/nih-plug) - A collection of basic plugins
 - [OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - A synth nspired by the venerable Oberheim OB-X
 - [OctaSine](https://github.com/greatest-ape/OctaSine) - Frequency modulation synthesizer plugin
