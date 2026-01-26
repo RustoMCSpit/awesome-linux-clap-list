@@ -333,6 +333,7 @@ These are also interesting projects:
 185. https://gitlab.com/wild-blossom-audio/wild-blossom-plugins
 186. https://github.com/pachadotdev/british-treble-booster-vst3
 187. https://github.com/sout233/im_disperser
+188. https://github.com/noahbaxter/guillotine
 
 https://github.com/OpenSauce/rustortion
 
