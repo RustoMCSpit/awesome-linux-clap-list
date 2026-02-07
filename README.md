@@ -347,8 +347,13 @@ These are also interesting projects:
 188. https://github.com/noahbaxter/guillotine
 189. https://github.com/sjaehn/BVibratr
 190. https://luna-co-software.github.io/lunacoaudio.github.io/
+191. https://github.com/mzuther/Squeezer
+192. https://github.com/magnetophon/molot-lite
+193. https://github.com/igorski/phlegetron
+194. https://github.com/blablack/nine-strip
 
 https://github.com/OpenSauce/rustortion
+https://github.com/smpldsnds/wavedit-online
 
 CLAP/Linux status:
 - [iPlug2 issue #105](https://github.com/iPlug2/iPlug2/issues/105)
