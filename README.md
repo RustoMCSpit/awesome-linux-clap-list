@@ -345,6 +345,8 @@ These are also interesting projects:
 186. https://github.com/pachadotdev/british-treble-booster-vst3
 187. https://github.com/sout233/im_disperser
 188. https://github.com/noahbaxter/guillotine
+189. https://github.com/sjaehn/BVibratr
+190. https://luna-co-software.github.io/lunacoaudio.github.io/
 
 https://github.com/OpenSauce/rustortion
 
