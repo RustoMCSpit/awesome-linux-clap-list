@@ -351,6 +351,14 @@ These are also interesting projects:
 192. https://github.com/magnetophon/molot-lite
 193. https://github.com/igorski/phlegetron
 194. https://github.com/blablack/nine-strip
+195. https://github.com/smiarx/aelapse
+196. https://github.com/yimrakhee/LetsDist
+197. https://github.com/gmoican/BassPreamp
+198. https://github.com/justinli34/frost-reverb
+199. https://github.com/DanielJamesDev/SpectralTilt
+200. https://github.com/AnClark/MelorySynth
+201. https://github.com/Azteriisk/SpectralSubtractor
+202. https://github.com/geissmannsbin/measure-counter-vst
 
 https://github.com/OpenSauce/rustortion
 https://github.com/smpldsnds/wavedit-online
