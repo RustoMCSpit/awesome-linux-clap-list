@@ -384,6 +384,8 @@ https://github.com/brummer10/XUiDesigner https://github.com/ffAudio/foleys_gui_m
 https://plugdata.org
 https://github.com/emilk/egui
 
+https://nakst.gitlab.io/tutorial/clap-part-1.html https://nakst.gitlab.io/tutorial/ui-part-1.html
+
 other frameworks and dependencies
 https://github.com/ArborealAudio/arbor
 [HISE](http://hise.audio) (Dual licensed)
