@@ -359,6 +359,7 @@ These are also interesting projects:
 200. https://github.com/AnClark/MelorySynth
 201. https://github.com/Azteriisk/SpectralSubtractor
 202. https://github.com/geissmannsbin/measure-counter-vst
+203. https://github.com/dusk-audio/dusk-audio-plugins
 
 https://github.com/OpenSauce/rustortion
 https://github.com/smpldsnds/wavedit-online
