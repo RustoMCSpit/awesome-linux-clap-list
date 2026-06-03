@@ -31,6 +31,7 @@ you can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 - [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb designed to sound great with synthetic sound sources
 - [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb plugin
+- [Droplets](https://github.com/poucet/droplets) - CLAP plugin in rust that allows an llm to sequence midi in your DAW that's tempo aligned 
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of reverb effects
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
