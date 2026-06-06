@@ -1,12 +1,14 @@
 # awesome-linux-clap-list ![image](https://github.com/user-attachments/assets/b0504c63-a4f3-4edd-9dea-09e89b340beb)
 
-A list of FOSS clap plugins that work for Linux _(and Windows too but get Linux for your own sake, detailed belo)_. FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)
+A list of FOSS clap plugins that work for Linux (and Windows).
+
+*_FOSS means "Free and Open Source Software", that basically means the source code is freely available to all so there will never be any payment or registration required (fuck iLok)_
 
 You can download many of these here https://studiorack.github.io/studiorack-site
 
 You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-site
 
-**(Bold are my recommended plugins)**
+**Bold are my recommended plugins**
 
 ### Plugin List
 - [Aeolus](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer
@@ -60,7 +62,7 @@ You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) - Will be a sampler when its done!
 - [six-sines](https://github.com/baconpaul/six-sines) - That's the right number of sines, I think.
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
-- [SG-323](https://github.com/greyboxaudio/SG-323) - Ursa Major Stargate 323 emulation 
+- [SG-323](https://github.com/greyboxaudio/SG-323) - Ursa Major Stargate 323 emulation
 - [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
 - [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) -  A stereo delay plugin with feedback and cross-mixing
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
@@ -73,8 +75,8 @@ You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugs
 - [UhbikWrapper](https://github.com/dlarseninclusive/UhbikWrapper) - Reason-style VST3 wrapper for chaining multiple effects with preset management 
 - [unplugred plugins](https://vst.unplug.red) - Different unique plugins (please donate if you can) Also here: https://github.com/unplugred/vsts
-- [**Vital**](https://vital.audio/) - **Wavetable synth**
-Also here: https://github.com/mtytel/vital
+- [Viola Ex Machina](https://github.com/peastman/ViolaExMachina) - A physically inspired synthesizer for stringed instruments 
+- [**Vital**](https://vital.audio/) - **Wavetable synth** Also here: https://github.com/mtytel/vital
 - [vitalium-verb](https://github.com/BillyDM/vitalium-verb) - A Rust port of the reverb module from the Vital/Vitalium synthesizer 
 - [wolf-shaper](https://github.com/wolf-plugins/wolf-shaper) - Waveshaper plugin with a spline-based graph editor
 - [wstd-crshr](https://github.com/Wasted-Audio/wstd-crshr) - Simple bit reduction plugin
@@ -84,3 +86,10 @@ Also here: https://github.com/mtytel/vital
 - [wstd-fldr](https://github.com/Wasted-Audio/wstd-fldr) - Simple wave folder plugin
 - [wstd-smthr](https://github.com/Wasted-Audio/wstd-smthr) - Simple soft-clipping overdrive plugin
 - [ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx) - ZynAddSubFX open source synthesizer
+
+  
+-----------------------
+
+_how to install linux: 1) copy down your windows product key 2) backup your files to a harddrive 3) install the linux mint cinnamon .iso file from the [linux mint website](https://www.linuxmint.com) 4) use [etcher](https://etcher.balena.io) (download from its website) to put the .iso on a usb flash drive 5) go into bios 6) boot from the usb 7) go through the introduction and then erase all of your computers the storage and install 8) press update all in the update manager 9) celebrate. it takes 15 minutes._
+
+------------------------
