@@ -40,6 +40,7 @@ You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [Hamburger](https://github.com/Davit-G/Hamburger) - A distortion plugin with inbuilt dynamics controls and equalisation
 - [hardclipper](https://github.com/erroreyes/hardclipper) - A simple hard clipper
 - [HexoSynth](https://github.com/WeirdConstructor/HexoSynth) - A hexagonal modular synthesizer plugin. (PLUGIN AUTHOR REMOVED PLUGIN)
+- [Hue](https://github.com/bljustice/hue/) - A rust-based audio plugin to mix various noise types into your audio signal.
 - [JC303](https://github.com/midilab/jc303) - A Roland TB-303 Plugin for, a Juce port of Open303 engine
 - [lamb](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb
 - [lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project
