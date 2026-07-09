@@ -64,6 +64,7 @@ You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [six-sines](https://github.com/baconpaul/six-sines) - That's the right number of sines, I think.
 - [ShowMidi](https://github.com/gbevin/ShowMIDI) - Multi-platform GUI application to effortlessly visualize MIDI activity
 - [SG-323](https://github.com/greyboxaudio/SG-323) - Ursa Major Stargate 323 emulation
+- [**Soundshed Guitar**](https://github.com/webprofusion/soundshed-guitar) - **Soundshed Guitar is a fully featured guitar/bass effects app and plugin.**
 - [SpectMorph](https://github.com/swesterfeld/spectmorph) - Spectral Audio Morphing
 - [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) -  A stereo delay plugin with feedback and cross-mixing
 - [Stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
