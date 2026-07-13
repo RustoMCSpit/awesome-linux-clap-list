@@ -29,6 +29,7 @@ You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [crunchy](https://github.com/Garneek/crunchy) - A very simple bit crusher effect plugin
 - [DEL2](https://github.com/magnetophon/DEL2) -  A rhythm delay with crunch.
 - [delax](https://github.com/awallenfang/delax) - A delay audio plugin
+- [demucs RS](https://github.com/nikhilunni/demucs-rs) - Stem splitter
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 - [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb designed to sound great with synthetic sound sources
 - [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb plugin
