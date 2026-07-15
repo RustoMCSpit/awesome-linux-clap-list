@@ -37,6 +37,7 @@ You can upload plugins here https://open-audio-stack.github.io/open-audio-stack-
 - [Droplets](https://github.com/poucet/droplets) - AI plugin that allows an LLM to sequence MIDI in your DAW that's tempo aligned 
 - [firefly-synth](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular synthesizer
 - [firefly-fx](https://github.com/sjoerdvankreel/firefly-synth) -  Semi-modular FX plugin
+**- [Floe](https://github.com/floe-audio/Floe) - Sample library platform with a simple, powerful interface**
 - [fluidsynth](https://github.com/cannerycoders/fluidsynth.clap) -  A clap-plugin bridge to fluidsynth
 - [Hamburger](https://github.com/Davit-G/Hamburger) - A distortion plugin with inbuilt dynamics controls and equalisation
 - [hardclipper](https://github.com/erroreyes/hardclipper) - A simple hard clipper
