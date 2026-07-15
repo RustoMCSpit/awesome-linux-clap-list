@@ -3,19 +3,25 @@ WARNING: everything below is very messy, do not look at it. It's a collection of
 
 https://github.com/webprofusion/OpenAudio
 
-https://linuxdaw.org/?f=clap&l=o
+https://github.com/sudara/awesome-juce
+
+https://linuxdaw.org/?l=o
+
+https://linuxsynths.com/
 
 https://pedalboards.mod.audio/plugins
 
-https://library.vcvrack.com
+https://library.vcvrack.com/?page=1&limit=50&query=&tag=&sort=creationTimestamp&brand=&license=open&modules=&plugins=
 
 https://cardinal.kx.studio/modules
 
-https://linuxmusic.rocks/
+https://linuxmusic.rocks/?search=&category_id=&free=true&order_by=last_update
 
 https://gitlab.com/nodiscc/awesome-linuxaudio
 
 https://github.com/crshrprt?tab=stars
+
+https://github.com/RustoMCSpit/awesome-linux-clap-list/blob/main/personal%20notes
 
 Please note, some of the above are experiencing GUI bugs and do not work perfectly! The vast majority do work, only AIDA-X. Cardinal, and Octasine are currently broken on Linux but function fine on Windows.
 
